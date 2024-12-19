@@ -1,0 +1,47 @@
+I Bloque Institucional 13 0
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Ilustración para
+Modas
+Patronaje y Confección
+Lencería
+Tejidos Electiva III
+Matemáticas
+Comunicación y
+Sociedad
+Dibujo de Figura
+Humana
+Diseño de Modas II
+FACULTAD DE INGENIERÍA DISEÑO E INNOVACIÓN
+Ensamblaje y
+Producción
+Accesorios
+Electiva I
+Cultura Ambiental Figurín II Historia del Traje II
+Patronaje y
+Confección Hombre
+Proceso
+Administrativo
+Arte y Estética
+Semiótica Audiovisual
+Electiva II
+Diseño de Modas III Figurín I Historia del Traje I
+DISEÑO DE MODAS
+Modalidad Presencial  SNIES 54726  Bogotá
+Estampación Textil y
+Técnicas de Reserva
+Opción de Grado Electiva V
+Patronaje Digital Tecnología Textil Electiva IV
+Patronaje y
+Confección Mujer
+Taller de Fotografía
+TOTAL CRÉDITOS 140
+TOTAL ASIGNATURAS 40
+Requisito Institucional Inglés
+Emprendimiento 3 Créditos
+Informática 4 Créditos
+Investigación o Bienestar 6 Créditos

@@ -1,0 +1,72 @@
+8 E 3
+0 0 0
+I Bloque Institucional 13  13 0
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Materiales y
+Procesos Cerámicos
+y Textiles
+Organización y
+Métodos
+Proceso Administrativo Prospectiva
+Comunicación y
+Sociedad
+Dibujo de Figura
+Humana
+Expresión Física Mecánica
+FACULTAD DE INGENIERÍA DISEÑO E INNOVACIÓN
+Materiales y
+Procesos Metales
+Administración de
+Proyectos de
+Diseño
+Electiva I
+Arte y Estética
+Materiales y Procesos
+Maderas
+Modelos y Prototipos Taller Creativo Taller de Biónica
+Cultura Ambiental
+Taller de Fotografía
+Electiva II
+Dibujo Técnico
+Ergonomía y
+Antropometría
+Historia del Diseño
+Industrial
+DISEÑO INDUSTRIAL
+Modalidad Presencial  SNIES 101525  Bogotá
+Electiva III
+Opción de Grado Electiva V
+Marketing en Diseño
+Materiales y Procesos
+Plásticos y Traslúcidos
+Modelado y
+Animación en 3D
+Electiva IV
+Taller de Forma y
+Función
+Semiótica
+Audiovisual
+TOTAL CRÉDITOS 144
+TOTAL ASIGNATURAS 41
+CreateCamps I Dibujo y Perspectiva Matemáticas Taller de Diseño Taller de Redacción
+CreateCamps II Computación Gráfica Geometría Descriptiva
+Procesos de
+Comunicación
+Taller de Diseño II
+CreateCamps II Computación Gráfica Geometría Descriptiva
+Procesos de
+Comunicación
+Taller de Diseño II
+CreateCamps I Dibujo y Perspectiva Matemáticas Taller de Diseño Taller de Redacción
+Reconocimiento
+de Créditos
+Emprendimiento 3 Créditos
+Informática 4 Créditos
+Investigación o Bienestar 6 Créditos
+Requisitos de Grado
+Requisito Institucional Inglés

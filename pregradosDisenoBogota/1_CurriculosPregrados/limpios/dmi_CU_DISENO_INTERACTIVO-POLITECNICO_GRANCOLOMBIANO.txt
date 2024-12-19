@@ -1,0 +1,65 @@
+0 38 0
+I Bloque Institucional 8
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Semiótica
+Audiovisual
+Taller de Fotografía
+Taller de Pensamiento
+Creativo
+Create Camps II
+Geometría
+Descriptiva
+Matemáticas Create Camps I Taller de Diseño Dibujo y Perspectiva
+Pensamiento
+Algorítmico
+TOTAL ASIGNATURAS 43
+DISEÑO INTERACTIVO
+Modalidad Presencial  SNIES 111116  Bogotá
+Procesos de
+Comunicación
+Imagen Digital
+Proceso
+Administrativo
+Ingeniería de Software I Taller Interactivo I Electiva III
+TOTAL CRÉDITOS 144
+INGENIERÍA DISEÑO E INNOVACIÓN
+Opción de Grado
+Lenguaje de la
+Imagen en
+Movimiento
+Tipografía
+Ilustración Digital Modelado 3D
+Programación para la
+Interacción
+Experiencia de
+Usuario
+Nuevos Medios
+Digitales
+Modelos y
+Prototipos
+Marketing en Diseño Taller interactivo II Electiva IV
+Cultura Ambiental
+Administración de
+Proyectos de
+Diseño
+Bases de Datos Animación 3D 1
+Diseño de
+Videojuegos
+Electiva II
+Programación de
+Computadores
+Cálculo 1
+Fundamentos de
+Interactividad
+Electiva I
+Estructura de Datos Diseño de Información Narrativa Digital Historia del Diseño Diseño para la web
+Reconocimiento
+de Créditos
+Emprendimiento 2 Créditos
+Bienestar 2 Créditos
+Investigaciónr 4 Créditos

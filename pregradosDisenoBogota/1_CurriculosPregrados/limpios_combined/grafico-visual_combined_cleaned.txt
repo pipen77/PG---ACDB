@@ -1,0 +1,1180 @@
+--- CU_DISENO_DE_COMUNICACION-UNIVERSIDAD_EL_BOSQUE.txt ---
+ÁREA COMPONENTES LÍNEA TEMÁTICA
+TECNOLOGÍA
+Fundamentos de
+tecnología y
+comprobación 1
+3 3
+Fundamentos de
+tecnología y
+comprobación 2
+3 3
+Fundamentos
+de tecnología y
+comprobación
+3
+3 3
+Producción para
+diseño de
+comunicación 1
+2 3
+Producción para
+diseño de
+comunicación 2
+2 3
+Producción para
+diseño de
+comunicación 3
+2 3
+Producción para
+diseño de
+comunicación 4
+2 3
+MEDIOS
+VISUALES
+u da e tos de
+geometría y
+representación 1
+4 6
+Fundamentos de
+geometría y
+representación 2
+4 6
+Fundamentos
+de geometría y
+representación
+3 4
+Imagen y
+comunicación 1
+2 3
+Imagen y
+comunicación 2
+2 3
+Imagen y
+comunicación 3
+2 3
+Imagen y
+comunicación 4
+2 3
+Imagen y
+comunicación 5
+2 3
+Teoría metodología e historia
+del diseño proyectual
+Humanístico Expresión
+Comunicación
+GestiónTecnológico
+DISEÑO Diseño Básico 1 5 6 Diseño Básico 2 5 6 Diseño 1 5 6 Diseño 2 5 6
+Diseño de
+comunicación 1
+6 6
+Diseño de
+comunicación 2
+6 6
+Diseño de
+comunicación 3
+6 6
+Diseño de
+comunicación 4
+6 6
+Proyecto
+de grado 1
+6 6
+Proyecto
+de grado 2
+6 6
+Teoría metodología e historia
+del diseño proyectual
+TEORÍA E
+INVESTIGACIÓ
+Teoría 1 2 2 Teoría 2
+Investigación 2 2 Teoría 3
+Lenguajes 2 2 Investigación 1
+Investigación 2 2 Investigación 2
+Investigación en 2 2
+Expresión y comunicación
+Proyectual Humanístico
+COMUNICACIÓN Fundamentos
+de
+3 4 Comunicación 1 2 4 Comunicación 2 2 4 Comunicación 3 2 4 Proyecto Social
+Transformación 4 4 Seminario de
+proyecto de grado 2 2
+Humanístico  Tecnológico
+FACTORES
+HUMANOS
+Fundamentos de
+factores
+humanos
+2 3
+Factores
+humanos para
+diseño de
+3 4
+Diseño de
+comunicación y
+sociedad 1
+2 3
+Diseño de
+comunicación y
+sociedad 2
+Sistemas de la
+creación 2
+2 3
+Diseño de
+comunicación y
+sociedad 3
+2 3
+Preparación para
+la vida profesional
+Vida profesional
+2 2
+Empresa 1 2 3 Empresa 2 2 3
+Humanístico  Teoría
+metodología e historia del
+Contexto 1
+Industrias 2 2 Contexto 2
+Industrias 2 2 Contexto 3
+Sistemas de la 2 2 Cultura y
+sostenibilidad 2 3
+ELECTIVAS Electiva 2 2 Electiva 2 2 Electiva 2 2 Electiva 2 2 Electiva 2 2
+Electiva 2 2 Electiva de grado 2 2
+Electiva de grado 2 2
+160
+174 16 19 16 20 16 19 16 21 16  16  16 21 16 19 16 16 16 17
+
+--- CU_DISENO_DE_COMUNICACION_GRAFICA-CIDE-.txt ---
+Presencial Plan de Estudios
+Perfil Profesional
+SNIES 106510
+TOTAL CRÉDITOS ACADÉMICOS 144
+DURACIÓN 8 Periodos
+Académicos
+MODALIDAD Presencial
+TÍTULO A OBTENER Profesional en diseño de
+comunicación gráfica
+El profesional en diseño de comunicación gráfica forma
+profesionales con capacidad de responder a las necesidades
+del mercado frente a la comunicación gráfica su
+gestión como directivo y sus posibilidades de ser un profesional
+autónomo creativo innovador y a la vanguardia en
+el conocimiento de los avances tecnológicos sin dejar de
+lado su capacidad analizar planear proyectar producir y
+evaluar piezas de comunicación gráfica y multimedial
+trabajando en grupos interdisciplinarios y de variada
+influencia cultural y económica
+DISEÑO DE LA COMUNICACIÓN GRÁFICA
+Diseño básico
+Fundamentos de comunicación
+Lógica matemática
+Cátedra cideista
+Constitución política
+Tecnología de la comunicación
+Color en el diseño
+Imágenes vectoriales
+3
+2
+2
+2
+2
+2
+2
+3
+Diseño tipográfico
+Fotografía Básica
+Perspectiva y descriptiva
+Semiología y semiótica
+Técnicas de expresión
+Historia del arte y de la imagen I
+Diseño estructural
+Edición y retoque digital
+3
+2
+2
+2
+2
+2
+2
+3
+Dibujo anatómico
+Ambiente y desarrollo
+Economía solidaria
+Historia del arte y de la imagen II
+Diseño de la metodología
+Diseño editorial y diagramación
+Diseño tridimencional
+Electiva I
+2
+2
+2
+2
+2
+3
+3
+2
+Mercadeo básico
+Autoedición y preprensa
+Diseño de imagen corporativa y señalética
+Práctica técnico profesional
+Proyecto de grado técnica profesional
+Sistemas de impresión
+Producción costos y presupuestos
+Ilustración
+2
+3
+3
+2
+0
+3
+2
+3
+I
+II
+III
+IV
+Animación 2D
+Arquitectura de la información
+Diseño y entornos digitales
+Estudios culturales
+Fotografía publicitaria
+Gestión de talento humano
+Métodos estadísticos para la investigación
+3
+3
+3
+2
+3
+2
+2
+Animación 3D
+Creación audiovisual y multimedia
+Diseño web
+Comunicación visual
+Publicaciones Emedia
+ElectivaII
+Fundamentos de administración y emprendimiento
+Práctica tecnólogo
+Proyecto de grado tecnólogo
+3
+2
+3
+3
+3
+2
+2
+0
+0
+V VI
+Innovación y desarrollo empresarial
+Legislación de los medios
+Diseño y comunicación del empaque
+Estética y percepción
+Intografía digital yo audiovisual
+Lenguaje y comunicación en nuevos medios
+Metodología de la investigación
+2
+2
+3
+3
+3
+3
+2
+Formulación y evaluación de proyectos
+Ética y evolución biopsicosocial
+Creación de entornos virtuales
+Diseño y sostenibilidad
+Gestión de la comunicación empresarial
+Práctica del profesional
+Proyecto del profesional
+Electiva III
+3
+2
+4
+3
+2
+2
+0
+2
+VII VIII
+TECNOLOGÍA EN CREACIÓN DE CONTENIDOS VISUALES Y MULTIMEDIALES
+TÉCNICO PROFESIONAL EN PRODUCCIÓN GRÁFICA
+PROFESIONAL EN DISEÑO DE LA COMUNICACIÓN GRÁFICA
+SNIES 106510
+
+--- CU_DISENO_GRAFICO-CORPORACION_ESCUELA_DE_ARTES_Y_LETRAS.txt ---
+Plan de estudios
+sugerido al estudiante
+Asignaturas Fundamentales
+Créditos Académicos
+Asignaturas Optativas
+1
+
+Componente Proyectual
+3
+
+5
+
+3
+6
+
+4
+6
+
+3
+5
+4
+
+3
+Anteproyecto de Grado
+Pasantía
+Proyecto de Grado
+Taller de Diseño Tipográfico
+Taller de Diseño y Composición
+Taller de Diseño Editorial
+Taller Experimental
+Taller de Ilustración
+Infografía
+Diseño Web I
+Componente Teoría
+e Historia del Diseño
+3
+
+3
+3
+
+3
+3
+
+3
+3
+Semiótica
+Percepción Visual
+Concepción Creativa
+Estética de la Imagen
+Diseño Colombiano
+Modernidad y Posmodernidad en el Arte
+Panorámica Universal del Arte
+Componente Humanístico
+
+1
+
+1
+1
+
+3
+3
+
+1
+
+3
+1
+1
+Antropología
+Cátedra
+Consejería I
+Consejería II
+Constitución Política de Colombia
+Ética
+Metodología de la Investigación
+Psicología
+Sociología
+Componente de Expresión y Comunicación
+3
+
+3
+3
+3
+3
+
+2
+
+3
+3
+3
+
+3
+
+2
+3
+3
+Armada Digital
+Dibujo Anatómico
+Dibujo Artístico
+Español
+Fundamentos de la Comunicación
+Imagen Digital
+Inglés I
+Inglés II
+Inglés III
+Inglés IV
+Inglés V
+Redacción Publicitaria
+Vectorial
+Componente de Gestión
+1
+1
+2
+2
+Pensamiento Económico
+Derecho Civil y Comercial
+Costos de Producción
+Mercadeo
+Taller de Producción Editorial
+Producción Gráfica
+Redacción de Textos
+Taller de Medios Impresos
+Taller de Identidad Visual
+Diseño Universal
+Publicaciones Digitales
+Gerencia Editorial
+Normatividad Editorial
+
+Taller de Campañas
+Matemáticas
+Principios de Administración
+Taller de Gerencia Empresarial
+Taller de Diseño y Gerencia de Marca
+Diseño Universal
+Estadística
+Investigación de Mercados
+Gerencia del Diseño
+
+Taller de Animación
+Taller de Diseño de Producción
+Taller de Identidad Visual
+Diseño de Personaje
+Historia de la Animación
+Animación 2D
+Animación 3D
+Guión
+Lenguaje Cinematográfico
+Composición de Efectos Visuales
+
+Edición Digital
+Cinema 4D
+Color y Composición
+Community Manager
+Diseño de Vestuario para Animación
+Dibujo Anatómico II
+Dirección Artística
+Dirección de Arte
+Diseño de Videojuegos
+Fotografía Editorial
+Francés
+Graficación de Empaques
+Ilustración Digital
+Joomla
+Maya
+Modelado
+Multimedia
+Realidad Aumentada
+Técnicas de Fotografía
+Tipografía Creativa
+
+Énfasis del programa
+
+Título a otorgar
+Profesional en Diseño Gráfico
+Duración
+151 créditos académicos
+Jornada
+Única
+Metodología
+Presencial
+
+--- CU_DISENO_GRAFICO-CORPORACION_UNIVERSITARIA_TALLER_CINCO_CENTRO_DE_DISEÑO.txt ---
+E DE 
+FORMACIÓN 
+INVESTIGATIVA
+17 17
+INGLÉS I INGLÉS II INGLÉS III
+CULTURA DEL 
+EMPRENDIMEINTO GESTION EMPRESARIAL INNOVACIÓN
+FINANZAS 
+METODOLOGÍA DE LA 
+INVESTIGACIÓN 
+SEMINARIO DE 
+INVESTIGACIÓN 
+SEMILLERO DE 
+INVESTIGACIÓN ANTEPROYECTO GRADO
+17
+7 7 7 7 6 6 6
+17 17 17 17 17
+TECNICAS DE EXPRESIÓN 
+Y LENGUAJE LITERATURA HISTORIA DEL ARTE LECTURA Y ESCRITURA 
+ACADEMICA
+CIUDADANÍA Y ÉTICA 
+PROFESIONAL            
+PENSAMIENTO CREATIVO OPTATIVA I OPTATIVA II OPTATIVA III
+SEMIÓTICA TEORÍA DEL DISEÑO HISTORIA DEL DISEÑO GESTIÓN DEL DISEÑO I GESTIÓN DEL DISEÑO II GESTIÓN DEL DISEÑO III
+DISEÑO WEB BÁSICO DISEÑO E INTERACCION I DISEÑO E INTERACCION II PUBLICACIONES 
+ELECTRÓNICAS
+COLOR DIBUJO A MANO ALZADA DIBUJO DE PERSPECTIVA FIGURA HUMANA FOTOGRAFÍA ILUSTRACIÓN I ILUSTRACIÓN II DIBUJO ANIMADO 
+DIGITAL
+IMAGEN DIGITAL EDICIÓN DIGITAL EXPRESIÓN DIGITAL ANIMACIÓN
+PRÁCTICA EMPRESARIAL
+I PERIODO ACADÉMICO II PERIODO ACADÉMICO III PERIODO ACADÉMICO IV PERIODO ACADÉMICO V PERIODO ACADÉMICO VI PERIODO ACADÉMICO
+TALLER PROYECTUAL VI 
+Identidad Corporativa
+ELECTIVA GENERAL
+PROYECTO DE GRADO
+DISEÑO GRAFICO
+ISEÑO BÁSICO TALLER PROYECTUAL I  
+Diseño Tipográfico
+TALLER PROYECTUAL II 
+Diseño Tridimensional
+TALLER PROYECTUAL III 
+Diseño de Información
+TALLER PROYECTUAL IV 
+Diseño Digital
+TALLER PROYECTUAL V 
+Diseño Editorial
+
+
+--- CU_DISENO_GRAFICO-CORPORACION_UNIVERSITARIA_UNITEC.txt ---
+PRIMER SEMESTRE SÉPTIMO  Inglés VI  Taller de Diseño Editorial  Diseño Web  Administración en Diseño  Electiva Profesional II  Espíritu Emprendedor SEMESTRE SEXTO  Inglés V  Animación Básica  Taller de Campaña Gráfica  Multimedia  Empaques y Embalajes  Electiva profesional I SEMESTRE CUARTO  Inglés III  Estética del Diseño  Taller de Ilustración II  Tipografía II  Diseño Digital  Diseño de Investigación SEMESTRE QUINTO  Inglés IV  Fotografía  Taller de Diseño de Marca  Producción de Diseño  Diseño de Información  Creatividad y Resolución  de Problemas SEMESTRE OCTAVO  Taller de Diseño Aplicado  Desarrollo de Contenidos  Gestión de Diseño  Electiva Profesional III  Comunicación y   Marketing Digital Registro calificado Resolución MEN No 14237 del 07 de septiembre de 2015  vigencia 7 años Título que otorga Diseñador Gráfico Modalidad Presencial Duración estimada 9 semestres Jornada Diurna  Nocturna Lugar de desarrollo Bogotá  Colombia SNIES 54344 DISEÑO GRÁFICO INFORMACIÓN GENERAL
+SEGUNDO  Inglés I  Historia del Diseño II  Semiótica  Dibujo II  Diseño Básico II  Constitución Política  Electiva Interdisciplinar  Historia del Diseño I  Comunicación Visual  Dibujo I   Diseño Básico I  Fundamentos  de Investigación  Expresión Oral y Escrita  Cátedra Uniteísta  Electiva SEMESTRE PRIMER EMESTRE TERCER  Inglés II  Historia del Diseño III  Psicología de la forma  Taller de Ilustración I  Tipografía I  Valores y Liderazgo
+SEMESTRE NOVENO CONOCE MÁS AQUÍ  Afirmación Profesional  Opciones de Grado Cred 1 8
+Para el desarrollo de habilidades gerenciales
+Pueden realizarse una vez cursado el 75 de los créditos
+
+--- CU_DISENO_GRAFICO-FUNDACION_UNIVERSITARIA_DEL_AREA_ANDINA.txt ---
+Arte cultura y sociedad Cátedra pablo oliveros marmolejo Ciencia tecnología y sociedad Color Dibujo a mano alzada Diseño básico Pensamiento lógico Diseño básico tridimensional Figura humana Gestión de la información I Imagen digital Pensamiento y comunicación I Semiótica Teoría del diseño Composición gráfica Expresión digital Fotodiseño Fotografía audiovisual Pensamiento y comunicación II Sujeto y sociedad Volumetría digital I Identidad Gráfica Diseño Web Volumetría Digital II Profundización 1A Profundización 1B Desarrollo Humano y Nuevas Ciudadanías II Gestión de la Información II Sistemas de Orientación Profundización 2A Profundización 2B Historia del Diseño Creatividad Desarrollo e Innovación II Electiva I Electiva II Producto Gráfico Profundización 3A Profundización 3B Investigación Creación I Estética Electiva III Electiva IV Portafolio Profesional Profundización 4A Profundización 4B Investigación Creación II Diseño de Experiencias Electiva V Electiva VI Creatividad desarrollo e innovación I Desarrollo humano y nuevas ciudadanías I Dibujo técnico descriptiva Diseño tipográfico Edición digital Fotografía básica Metodologías para el desarrollo del pensamiento creativo
+
+--- CU_DISENO_GRAFICO-FUNDACION_UNIVERSITARIA_HORIZONTE.txt ---
+
+
+Diseño Gráfico
+Plan de Estudios
+01
+Metodología de la Investigación
+Matemática Básica
+Fotografía
+Teoría de la Comunicación
+Dibujo Básico
+Taller I Fundamentos
+Cátedra Instirucional
+04
+Historia del Diseño Gráfico Fundamentos de Administración Diagramación Corporativa Semiología
+Geometría y Diseño Taller IV Diseño Editorial Imagen Digital Electiva Institucional Seguridad Industrial y Salud Ocupacional
+07
+Ecología
+Costos y Presupuestos Proyecto Audiovisual Ilustración II Digital
+Creación de Personajes
+Taller VII Gráfico Ambiental y
+Señalitica
+Animación 3D
+02
+Historia del Arte Retoque Digital Figura Humana Taller II Tipografía Psicología de la Forma Fundamentos del color Composición de la Imagen Humanidades
+05
+Metodología de Proyectos Antropología Emprendimiento Programación Web Estética
+Técnicas de Ilustración Taller V Diseño Web
+08
+Proyecto de Grado Práctica Investigativa Práctica Empresarial
+Taller VIII Identidad Cultural
+AD
+HORIZONTE FUNDACIÓN UNIVERSITARIA
+03
+Historia del Arte Contenporáneo Fotografía Digital Comunicación Visual Dibujo Bidimensional Teoría del Color Electiva Disciplinar I Dibujo Artístico Perspectiva
+Taller III Identidad Visual
+06
+Seminario de Grado Sociología Marketing
+Ilustración  Básica Taller VI Branding Modelado 3D Electiva Disciplinar II Edición y Montaje Audiovisual
+Requisitos de Grado
+Servicio social Práctica Empresarial Ingles nivel B1 MCE Saber PRO
+Modalidad de Grado Plan de Estudios y Pagos
+Vigilada MinEducación
+UniHorizonte se reserva el derecho de modificar el plan de estudios para garantizar el bienestar académico de sus estudiantes
+Total de Créditos 149
+
+--- CU_DISENO_GRAFICO-FUNDACION_UNIVERSITARIA_LOS_LIBERTADORES_UNAD.txt ---
+Plan de Estudios Fundamentos de la Forma 3 Créditos 3 Créditos Fundamentos Matemáticos 3 Créditos Historia del Diseño 3 Créditos Teoría de la Imagen 3 Créditos Representación Gráfica Comunicación y Expresión 3 Créditos l 3 Créditos Tipografía Programación para Diseño 3 Créditos Producción Fotográfica 3 Créditos 3 Créditos Taller de Escritura y Narrativa Ilustración 3 Créditos Análisis de Datos 3 Créditos lI Síntesis Gráfica 3 Créditos Taller de Ideación 3 Créditos 3 Créditos Semiótica 3 Créditos Inglés I 3 Créditos Fundamentación de Investigación 3 Créditos lII Proyecto Editorial 3 Créditos Teoría del Diseño 3 Créditos Cátedra Libertadora 3 Créditos Inglés II 3 Créditos Marketing Digital 3 Créditos Electiva I 3 Créditos lV Diseño de Información 3 Créditos Fundamentos de Animación 3 Créditos 3 Créditos Inglés III 3 Créditos Proyectos Creativos 3 Créditos Profundización I 3 Créditos V Diseño de Servicios 3 Créditos Diseño Web 3 Créditos Ética y Ciudadania 3 Créditos Industrias Creativas y Culturales 3 Créditos Metodología de Investigación en Diseño 3 Créditos Profundización II 3 Créditos VI Gestión Estratégica de Marca 3 Créditos Diseño para Entornos Digitales 3 Créditos Animación 3D 3 Créditos Experiencia de Usuario 3 Créditos Gerencia de Diseño 3 Créditos Profundización III 3 Créditos VII Diseño y Transformación Social 3 Créditos Proyecto Audiovisual 3 Créditos Práctica Profesional 9 Créditos Investigación y Creación 3 Créditos VIII Componentes de Formación Expresión y Comunicación Electivas y Profundización Investigación y Creación Electiva III Electiva II Pensamiento Proyectual y Tecnológico Teoría e Historia del Diseño Gestión Formación Ciudadana
+
+--- CU_DISENO_GRAFICO-FUNDACION_UNIVERSITARIA_SAN MATEO_EDUCACION_SUPERIOR.txt ---
+
+
+TP
+Tc
+000
+TP
+Tc
+PROGRAMAS POR CICLOS PROPEDÉUTICOS
+Título otorgado Técnico
+Profesional en Procesos
+de Producción Gráfica
+SNIES 106432
+Registro calificado
+Resolución 24475 del 30
+diciembre 2016
+Vigencia 7 años
+Nivel académico Pregrado
+Nivel de formación
+Técnico Profesional
+Modalidad Presencial
+Duración 4 semestres
+Créditos académicos 70
+Cobertura del programa Bogotá DC
+Tecnología
+en Desarrollo de
+la Producción Gráfica y Digital
+Técnica
+Profesional en Procesos
+de Producción Gráfica
+Título otorgado Tecnólogo
+en Desarrollo de la Producción
+Gráfica y Digital
+SNIES 106070
+Registro calificado
+Resolución 24383 del 30
+diciembre 2016 Vigencia 7 años
+Nivel académico Pregrado Nivel de formación Tecnológico
+Modalidad Presencial Duración 7 semestres Créditos académicos 124
+Cobertura del programa Bogotá DC
+TP
+TC
+
+Título otorgado
+Diseñador Gráfico
+SNIES 106071
+Registro calificado
+Resolución 24384 del 30 de
+diciembre de 2016
+Vigencia 7 años
+Nivel académico Pregrado Nivel de formación
+Universitario
+Modalidad Presencial Duración 9 semestres Créditos académicos 161 Cobertura del programa Bogotá DC
+ASIGNATURAS PROPEDÉUTICAS
+Diseño
+Gráfico
+SEMESTRE I
+SEMESTRE II
+SEMESTRE III
+SEMESTRE IV
+Inglés L
+Fundamentos de Diseño Procesos de Producción Gráfica
+Software Aplicado L Metodología de Estudio Expresión Oral y Escrita Cátedra Mateísta Técnica Teoría del Color
+ Inglés II
+ Diseño Tipográfico Diagramación
+Metodología Proyectual del Diseño
+ Producción Editorial
+y Publicomerciales Historia del Arte Fundamentos de Emprendimiento
+ Fotografía DT Sistemas Aplicados para Producción
+ Ilustración
+Software Aplicado II
+ Publicidad
+Metodología de la Investigación
+Emprendimiento Empresarial Electiva I Técnicos
+ Inglés Técnico
+Práctica Empresarial Técnica Empaques
+ Diseño Tridimensional
+Constitución Política y Formación Cívica
+Gestión de la Producción Electiva II Técnicos
+Opción de Grado Técnica
+SEMESTRE V
+SEMESTRE VI
+SEMESTRE VII
+SAN MATEO
+Proyectate
+Evoluciona
+Producción y Presupuestos Cátedra Mateísta Tecnológica Diseño de Imagen Corporativa Diseño Interactivo Multimedia Fotografía Publicitaria
+ Historia y Teoría del Diseño Teoría de la Comunicación
+ Animación Digital
+ Diseño Publicitario
+Sistemas Aplicados para Gestión
+ Lenguaje Audiovisual Formulación y Evaluación
+de Proyectos  Mercadeo
+ Electiva III Tecnólogo
+ Diseño Editorial
+ Gestión Estratégica
+de la Marca
+ Diseño Web Avanzado
+ Producción Audiovisual
+Principios de Administración  Electiva IV Tecnólogo
+ Opción de Grado Tecnología
+8
+SEMESTRE VIII
+SEMESTRE IX
+ Diseño Transmedia
+ Cátedra Mateísta Universitaria
+Plan de Negocios Investigación en Diseño Edición no Lineal AV
+ Electiva V Universitario Legislación en
+Propiedad Intelectual
+ Práctica Empresarial
+Gerencia de Diseño
+ Producción Transmedial
+Seminario de actualización en Software
+ Tendencias Artísticas
+ontemporáneas
+ Etica Profesional
+Electiva VI Universitario
+ Opción de Grado Universitario
+Fundación Universitaria
+SAN MATEO
+VIGILADA MINEDUCACIÓN
+
+--- CU_DISENO_GRAFICO-POLITECNICO_GRANCOLOMBIANO.txt ---
+8
+F 8 P 3
+0 36
+I Bloque Institucional 13 0
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Proceso
+Administrativo Preprensa Fundamentos de
+Interactividad Animación 3D II
+Semiótica
+Audiovisual Taller de Fotografía
+Diseño Publicitario Modelado 3D Ilustración I
+FACULTAD DE INGENIERÍA DISEÑO E INNOVACIÓN
+Opción de Grado
+Procesos de
+Impresión
+Electiva II
+Matemáticas Diseño Editorial Identidad Visual Animación 3D I Ilustración II
+Historia del Diseño
+Gráfico
+Dibujo de Figura
+Humana Taller de Redacción
+Procesos de
+Comunicación CreateCamps I
+TOTAL CRÉDITOS 140
+TOTAL ASIGNATURAS 41
+DISEÑO GRÁFICO
+Modalidad Presencial  SNIES 54534  Bogotá
+Ilustración Digital
+Diseño de Empaques Electiva V Cultura Ambiental
+Electiva IV
+Animación 2D
+Arte y Estética CreateCamps II Taller de Diseño II Computación Gráfica Geometría
+Descriptiva
+Reconocimiento
+de Créditos
+Taller de Diseño Dibujo y Perspectiva Taller Creativo
+Proyecto Interactivo
+Diseño para la Web
+Electiva I
+Electiva III
+Comunicación y
+Sociedad
+Requisitos de Grado
+Requisito Institucional Inglés
+
+Emprendimiento 3 Créditos
+Informática 4 Créditos
+Investigación o Bienestar 6 Créditos
+
+--- CU_DISENO_GRAFICO-UNIVERSIDAD_ANTONIO_NARINO.txt ---
+DISEÑO GRAFICO  PE  2024
+
+
+Periodo 1
+Asignatura	Código	Créditos
+CATEDRA ANTONIO NARIÑO	27472501	2
+DISEÑO BÁSICO	71196001	6
+EXPRESIÓN	71193041	3
+IDIOMA EXTRANJERO 1	27603017	3
+SENSIBILIZACIÓN CULTURAL	71193021	3
+
+
+Periodo 2
+Asignatura	Código	Créditos
+ARGUMENTACIÓN Y PERSUASIÓN	71193023	3
+IDIOMA EXTRANJERO 2	27603018	3
+LABORATORIO CREATIVO COMUNICACIÓN GRÁFICA	71196002	6
+PENSAMIENTO CREATIVO Y CONTEXTO DIGITAL	71193022	3
+TECNICAS DE REPRESENTACIÓN GRÁFICA	71193042	3
+
+
+Periodo 3
+Asignatura	Código	Créditos
+APLICACIÓN TIPOGRAFICA	71193024	3
+FUNDAMENTACIÓN TECNOLÓGICA	71193044	3
+IDIOMA EXTRANJERO 3	27603019	3
+ILUSTRACIÓN	71193043	3
+LABORATORIO CREATIVO COMPOSICIÓN 1	71196003	6
+
+
+Periodo 4
+Asignatura	Código	Créditos
+DISEÑO UXUI	71193025	3
+IDIOMA EXTRANJERO 4	27603007	3
+LABORATORIO CREATIVO COMPOSICIÓN 2	71196004	6
+METODOLOGÍA Y FACTORES HUMANOS	71193026	3
+PRODUCCIÓN DE IMÁGENES	71193045	3
+
+
+Periodo 5
+Asignatura	Código	Créditos
+ANIMACIÓN 1	71193047	3
+APLICACIÓN Y MANIPULACIÓN FOTOGRÁFICA	71193046	3
+IDENTIDAD GRÁFICA	71193027	3
+LABORATORIO CREATIVO SISTEMAS DE INFORMACIÓN	71196005	6
+SEMIÓTICA Y RETORICA DE LA IMAGEN	71193028	3
+
+
+Periodo 6
+Asignatura	Código	Créditos
+ANIMACION 2	71193048	3
+DESARROLLO DE INDUSTRIAS CREATIVAS Y MARKETING	71193029	3
+FUNDAMENTOS DE PROGRAMACIÓN	71193049	3
+LABORATORIO CREATIVO DISEÑO PARA PRODUCTOS	71196006	6
+LENGUAJE AUDIOVISUAL Y DISEÑO SONORO	71194030	4
+
+
+Periodo 7
+Asignatura	Código	Créditos
+ELECTIVA 1	71193061	3
+ELECTIVA 2	71193062	3
+FORMULACIÓN DE TRABAJO DE GRADO	71194008	4
+LABORATORIO DE PROFUNDIZACIÓN	71196007	6
+
+
+Periodo 8
+Asignatura	Código	Créditos
+ELECTIVA 3	71193063	3
+PRÁCTICA PROFESIONAL	71198010	8
+TRABAJO DE GRADO	71194009	4
+ÉTICA	71192081	2
+
+
+Total de creditos	141
+
+
+
+--- CU_DISENO_GRAFICO-UNIVERSIDAD_DE_BOGOTA_JORGE_TADEO_LOZANO.txt ---
+DISEÑO GRÁFICO  PLAN 0521
+FUNDAMENTACIÓN BÁSICA
+Créditos	Asignatura	Requisito	Oferta por temática
+3	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 	 
+3	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 	 
+3	HISTORIA DE LAS ARTES Y EL DISEÑO	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 
+3	SENTIDO Y COMUNICACIÓN	INTRODUCCIÓN AL DISEÑO GRÁFICO	 
+3	TEORÍAS DE LAS ARTES Y EL DISEÑO	HISTORIA DE LAS ARTES Y EL DISEÑO	 
+3	SEMIÓTICA EN LAS ARTES Y EL DISEÑO	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 
+SENTIDO Y COMUNICACIÓN	 
+FUNDAMENTACIÓN ESPECÍFICA
+Créditos	Asignatura	Requisito	Oferta por temática
+4	INTRODUCCIÓN AL DISEÑO GRÁFICO	 	 
+3	BOCETACIÓN Y PROYECCIÓN GRÁFICA	 	 
+4	FORMA	INTRODUCCIÓN AL DISEÑO GRÁFICO	 
+3	COLOR	 	 
+5	TALLER DE DISEÑO I	FORMA	 
+COLOR	 
+4	IMAGEN ILUSTRADA	BOCETACIÓN Y PROYECCIÓN GRÁFICA	 
+FORMA	 
+COLOR	 
+4	DISEÑO CULTURA Y SOCIEDAD	HISTORIA DEL DISEÑO GRÁFICO	 
+SEMIÓTICA EN LAS ARTES Y EL DISEÑO	 
+5	TALLER DE DISEÑO II	TALLER DE DISEÑO I	 
+4	IMAGEN FOTOGRÁFICA	BOCETACIÓN Y PROYECCIÓN GRÁFICA	 
+FORMA	 
+COLOR	 
+2	FUNDAMENTOS PARA LA GESTIÓN DE PROYECTOS	PROYECTO DE DISEÑO II	 
+4	METODOLOGÍAS DEL DISEÑO	SENTIDO Y COMUNICACIÓN	 
+6	PROYECTO DE DISEÑO I	TALLER DE DISEÑO II	 
+IMAGEN ILUSTRADA o IMAGEN FOTOGRÁFICA	 
+4	INTEGRACIÓN DE SISTEMAS TECNOLÓGICOS I	TALLER DE DISEÑO II	 
+IMAGEN ILUSTRADA o IMAGEN FOTOGRÁFICA	 
+3	EMPRENDIMIENTO EN INDUSTRIAS CULTURALES Y CREATIVAS	TALLER DE DISEÑO II	 
+4	HISTORIA DEL DISEÑO GRÁFICO	TEORÍAS DE LAS ARTES Y EL DISEÑO	 
+6	PROYECTO DE DISEÑO II 	PROYECTO DE DISEÑO I	 
+INTEGRACIÓN DE SISTEMAS TECNOLÓGICOS I	 
+4	INTEGRACIÓN DE SISTEMAS TECNOLÓGICOS II	INTEGRACIÓN DE SISTEMAS TECNOLÓGICOS I	 
+5	ESTUDIO DE DISEÑO I	PROYECTO DE DISEÑO II	Asignaturas con un componente electivo para los desempeños Editorial Información Digital Identidad y Concepto
+INTEGRACIÓN DE SISTEMAS TECNOLÓGICOS II
+5	ESTUDIO DE DISEÑO II	PROYECTO DE DISEÑO II
+INTEGRACIÓN DE SISTEMAS TECNOLÓGICOS II
+5	ESTUDIO DE DISEÑO III	PROYECTO DE DISEÑO II
+INTEGRACIÓN DE SISTEMAS TECNOLÓGICOS II
+2	PROPIEDAD INTELECTUAL PARA INDUSTRIAS CULTURALES Y CREATIVAS	EMPRENDIMIENTO EN INDUSTRIAS CULTURALES Y CREATIVAS	 
+3	ENLACE PROFESIONAL	ESTUDIO DE DISEÑO I o ESTUDIO DE DISEÑO II o ESTUDIO DE DISEÑO III	 
+0	EXAMEN DE SEGUIMIENTO DISEÑO GRÁFICO	PROYECTO DE DISEÑO I	 
+METODOLOGÍAS DEL DISEÑO	 
+6	OPCIÓN DE GRADO	ESTUDIO DE DISEÑO I o ESTUDIO DE DISEÑO II o ESTUDIO DE DISEÑO III	
+ 	 
+FUNDAMENTOS PARA LA GESTIÓN DE PROYECTOS	 
+FUNDAMENTACIÓN HUMANÍSTICA
+Créditos	Asignatura	Requisito	Oferta por temática
+2	ÉTICA CIUDADANÍA Y PAZ	 	 
+2	HUMANIDADES I	 	
+2	HUMANIDADES II	HUMANIDADES I	
+2	HUMANIDADES III	HUMANIDADES II	
+IDIOMA EXTRANJERO
+Créditos	Asignatura	Requisito	Oferta por temática
+2	INGLÉS A1	 	 
+2	INGLÉS A2	INGLÉS A1	 
+2	INGLÉS B1	INGLÉS A2	 
+EXAMEN DE SEGUIMIENTO
+Créditos	Asignatura	Requisito	Oferta por temática
+0	EXAMEN DE SEGUIMIENTO	PROYECTO DE DISEÑO I	 
+METODOLOGÍAS DEL DISEÑO	 
+METODOLOGÍAS DEL DISEÑO	 
+ELECTIVAS
+Créditos	Asignatura	Requisito	Oferta por temática
+9	ELECTIVAS	 	
+
+--- CU_DISENO_GRAFICO-UNIVERSIDAD_PILOTO_DE_COLOMBIA.txt ---
+2
+129 283
+TAD T I
+ÁREA DE FORMACIÓN BÁSICA
+ÉTICA Y
+CIUDADANÍA
+HISTORIA DE
+LAS CULTURAS
+FA21135 FA21140
+GRA22210
+NOMBRE DEL CURSO
+Cr
+CÓDIGO DEL CURSO
+Cr Créditos Académicos
+TDA Horas de trabajo directo
+semanal
+TI Horas de trabajo
+independiente
+AH00023 AH00022
+GEOMETRÍA DESCRIPTIVA
+ESTUDIOS DEL ARTE DEL
+MUNDO II
+ESTUDIOS DEL ARTE DEL
+MUNDO I
+TALLER PROYECTO DE DISEÑO I
+Creatividad forma y contexto
+ELECTIVA BÁSICA I ELECTIVA BÁSICA II
+16
+136
+T CR
+BI AH00024
+17 17 17 16 18 18 17
+3
+ÁREA DE
+FORMACIÓN
+SOCIOHUMAN
+ÍSTICA
+TALLER DE LECTURA Y
+ESCRITURA ELECTIVA INSTITUCIONAL AMBIENTE Y DESARROLLO
+SOSTENIBLE
+3 2 2 2
+AH00021
+GRA21300 GRA21305
+3
+FA21315 FA21320
+FA FA GRA21310
+PROJECT DESIGN MANAGEMENT DESIGN  SOCIAL CHANGE
+GRA23250
+ÁREA DE FORMACIÓN
+COMPLEMENTARIA
+MARKETING DIGITAL Y
+COMERCIO ELECTRÓNICO COMMUNITY MANAGEMENT
+4 2
+GRA22260 GRA21265 GRA21270 GRA22275 GRA21280 FA21285
+BIG DATA Y ANALÍTICA
+3 3 3
+3 3 3 2
+2 2 2 2 2 2 12
+SEMINARIO DE DISEÑO I
+Diseño y Precepción
+SEMINARIO DE DISEÑO II
+Diseño Imagen y palabra
+SEMINARIO DE DISEÑO III
+Diseño y comunicación
+SEMINARIO DE DISEÑO IV
+Analítica y diseño
+SEMINARIO DE DISEÑO V
+Diseño y mediación cultural
+SEMINARIO DE DISEÑO VI
+Gestión de Proyectos de Diseño
+FA22220 GRA22225 GRA22230 GRA22235 GRA22240 FA22245 GRA21255
+4 4 6 6 6 6
+ÁREA DE FORMACIÓN PROFESIONAL
+LABORATORIO TECNOLOGÍA I
+Imagen fija
+LABORATORIO TECNOLOGÍA II
+Imagen Fotográfica
+LABORATORIO TECNOLOGÍA III
+Imagen Movimiento
+LABORATORIO TECNOLOGÍA IV
+Imagen Transmedial
+GRA22200 GRA22205 GRA22215
+TALLER PROYECTO DE
+DISEÑO II
+Tipografía en contexto
+TALLER PROYECTO DE
+DISEÑO III
+Mediación comunicativa y
+diseño
+TALLER PROYECTO DE
+DISEÑO IV
+Informacin y expreiencia de
+usuario UX
+TALLER PROYECTO DE
+DISEÑO V
+Territorio e identidad cultural
+TALLER PROYECTO DE
+DISEÑO VI
+Estudio de diseño
+TALLER PROYECTO DE
+DISEÑO VII
+PRÁCTICA PROFESIONAL
+6
+2
+FA21125 FA21130
+2 3 3
+TEORÍA  HISTORIA DEL DISEÑO
+I
+3
+FA22120
+APRECIACIÓN ESTÉTICA
+GRA22100 GRA22105 GRA22110 GRA22115
+LENGUA EXTRANJERA I LENGUA EXTRANJERA II LENGUA EXTRANJERA III LENGUA EXTRANJERA IV
+3 3 3
+EXPRESIÓN I
+Sketching y expresión
+EXPRESIÓN II
+Cromática análoga y digital
+EXPRESIÓN III
+Dibujo de cuerpo en contexto
+EXPRESIÓN IV
+Narrativa Visual
+2 3 3 3
+3
+LEI4004 LEI4005 LEI4006 LEI4007
+FACULTAD DE ARQUITECTURA Y ARTES
+PROGRAMA DE DISEÑO GRÁFICO
+I 
+
+--- CU_DISENO_GRAFICO-UNIVERSIDAD_SANTO_TOMAS.txt ---
+Espacio académico
+ 
+Fundamentos del Diseño
+Geometría del Diseño
+Historia del Arte y el Diseño I
+Teoría de la Comunicación
+Filosofía Institucional
+Comunicación Escrita
+Pensamiento Lógico
+
+Cátedra Henri Didón
+
+Espacio académico
+ 
+Diseño Tipográfico
+Dibujo a Mano Alzada
+Comunicación Visual
+Aplicaciones Informáticas I
+Historia del Arte y del Diseño II
+Epistemología
+Inglés I 
+
+Espacio académico
+ 
+Diseño Editorial
+Aplicaciones Informáticas II
+Diseño y Sociedad
+Ilustración I
+Procesos de Producción
+Cultura Teológica
+Inglés II
+
+Identidad Gráfica
+Fotografía
+Ilustración II
+Aplicaciones Informáticas III
+Investigación I
+Antropología
+Inglés III
+
+Espacio académico
+ 
+Campañas Promocionales
+Ecodiseño
+Teoría del Diseño
+Fundamentos de Administración
+Investigación II
+Filosofía Política
+Inglés IV
+
+Espacio académico
+ 
+Énfasis Conceptual I
+Énfasis Proyectual I
+Emprendimiento y Creación de Empresas
+Investigación  Creación
+Ética
+Inglés V
+Electiva Profesional I
+
+Espacio académico
+ 
+Énfasis Conceptual II
+Énfasis Proyectual II
+Formulación y Gestión de Proyectos
+Cátedra Opcional
+Inglés VI
+Electiva Profesional II
+
+Espacio académico
+ 
+Trabajo de Grado
+Electiva Profesional III
+Electiva Profesional IV
+
+--- CU_DISENO_GRAFICO_DIGITAL-UNIVERSITARIA_VIRTUAL_INTERNACIONAL.txt ---
+PERIODO CRED ESPACIO ACADÉMICO Programación neurolingística Ilustración digital III Arte e imagen contemporáneos 2 3 3 2 3 3 2 3 2 3 0 4 3 Emprendimiento Comunicación y expresión creativa Ecommerce Ecodesarrollo Investigación aplicada Animación avanzada Electiva formación integral profesional Modelo de negocios Práctica profesional nivel profesional  Opción de grado nivel profesional
+
+--- CU_DISENO_VISUAL-FUNDACIÓN_UNIVERSITARIA_COMPENSAR.txt ---
+DISEÑO VISUAL PRESENCIAL BOGOTÁ Técnico Profesional Tecnología Profesional Universitario Tecnólogo en Gestión de Proyectos Web Profesional en Diseño Visual Resolución 29764 del 29 diciembre de 2017 Vigencia 7 años Bogotá DC Resolución 29765 del 29 diciembre de 2017 Vigencia 7 años Bogotá DC SNIES 90766 Resolución 29766 del 29 diciembre de 2017 Vigencia 7 años Bogotá DC SNIES 91160 SNIES 106608 Técnica Profesional en Producción de Piezas Multimedia PLAN DE ESTUDIOS TOTAL Cred 18 SEMESTRE IV TOTAL Cred 18 TOTAL Cred 18 SEMESTRE V SEMESTRE VI Ilustración Digital Práctica Inglés I Metodología para el Manejo de la Información Diseño Web Animación 3D Diseño Editorial Teoría y Psicología de la Forma Práctica Cátedra de la Paz Desarrollo Web Gestión de Proyectos Web Tipografía Digital Semiótica Estadística y Probabilidad Inglés II Emprendimiento II Cred 4 Cred 4 Cred 2 Cred 2 Cred 3 Cred 4 Cred 2 Cred 3 Cred 3 Cred 3 Cred 3 Cred 4 Cred 2 Cred 4 Cred 2 Cred 2 Cred 2 Cred 2 Edición de Audiovisuales II Cred 3 Modelado 3D TOTAL Cred 18 TOTAL Cred 17 TOTAL Cred 17 SEMESTRE I SEMESTRE II SEMESTRE III TOTAL Cred 18 TOTAL Cred 18 SEMESTRE VII SEMESTRE VIII SEMESTRE IX TOTAL Cred 18 Diseño Digital I Descriptiva y Perspectiva Historia y Vanguardias del Diseño Matemática Fundamental Cátedra Pensar Diseño Básico II Fundamentos Tipográficos Procesos Fotográficos Teoría del Color Realización Audiovisual Fotografía Digital Edición de Audiovisuales I Producción de Impresos Teoría de la Imagen Fija y Móvil Ilustración Análoga Emprendimiento I Diseño De Empaques Diseño de Señalética Multimedia Experimental Factores Culturales Electiva I Programa Inglés III Diseño Corporativo Portafolio Gestión de la Publicidad Gestión y Administración en Diseño Electiva II Facultad Gestión del Valor Compartido Diseño de Investigación Diseño Infográfico Intervención Espacial Campañas Publicitarias Electiva III Institucional Práctica Proyecto Fin de Grado Cred 3 Cred 4 Cred 3 Cred 2 Cred 3 Cred 3 Cred 3 Cred 2 Cred 2 Cred 3 Cred 3 Cred 4 Cred 2 Cred 3 Cred 2 Cred 3 Cred 3 Cred 2 Cred 2 Cred 3 Cred 2 Cred 3 Cred 4 Cred 3 Cred 3 Cred 3 Cred 2 Cred 3 Cred 2 Cred 2 Cred 3 Cred 3 Cred 3 Cred 3 Cred 4 Cred 3
+
+--- CU_DISENO_VISUAL-UNIVERSIDAD_DE_LA_SALLE.txt ---
+Trayectorias disciplinares
+Percepción y representación
+Inglés I
+Identidad Lasallista
+Taller I fundamentos de diseño
+
+Bocetación y comprensión del espacio
+El signo su lectura e interpretación
+tipografía e imagen
+Inglés II
+Taller II lenguaje audiovisual
+Humanidades I
+
+Técnicas de ilustración
+Esquemática visual Código I
+Inglés III
+Taller III diseño 3D
+Humanidades II
+
+Estructuras editoriales
+Código como lenguaje
+Inglés IV
+Taller IV animación
+Cultura religiosa I
+
+Gestión de empresa
+Metodologías I
+Electiva I
+Taller V diseño digital y transmedia
+Cultura religiosa II
+
+Gestión social de medio ambiente y
+comunidades
+Metodologías II
+Electiva II
+Taller VI diseño espacial
+Ética genera
+
+Laboratorio social
+Principios de investigación
+Electiva III
+Modalidad de grado I
+Ética en las profesiones
+
+Profundización I
+Profundización II
+Electiva IV
+Modalidad de grado II
+

@@ -1,0 +1,456 @@
+--- CU_CREACION_DIGITAL-UNIVERSIDAD_EL_BOSQUE.txt ---
+Plan de estudios Creación Digital 4 4 ESTUDIO DE CREACIÓN DIGITAL 1 ESTUDIO DE CREACIÓN DIGITAL 2 ESTUDIO DE CREACIÓN DIGITAL 3 ESTUDIO DE CREACIÓN DIGITAL 4 ESTUDIO DE CREACIÓN DIGITAL 5 ESTUDIO DE CREACIÓN DIGITAL 6 ESTUDIO DE CREACIÓN DIGITAL 7 TRABAJO DE GRADO 6 6 2 2 2 2 16 16 16 16 16 16 16 16 16 16 16 16 14 16 16 16 6 6 6 6 6 6 2 2 6 6 6 6 6 6 6 8 2 2 COMPOSICIÓN PLÁSTICA 1 ESTÉTICA LENGUAJE ESTUDIO USUARIOS CONTEXTO ELECTIVAS ANÁLISIS DE USUARIOS 1 2 2 IDIOMAS I 2 2 IDIOMAS II 2 2 IDIOMAS III 2 2 IDIOMAS IV 2 2 ANÁLISIS DE USUARIOS 2 2 2 ANÁLISIS DE USUARIOS 3 2 2 2 2 LENGUAJES DIGITALES 4 4 2 2 COMPOSICIÓN PLÁSTICA 2 LENGUAJES DIGITALES 2 4 4 2 2 COMPOSICIÓN PLÁSTICA 3 LENGUAJES DIGITALES 3 4 4 2 2 COMPOSICIÓN PLÁSTICA 4 LENGUAJES DIGITALES 4 4 4 2 2 COMPOSICIÓN PLÁSTICA 5 LENGUAJES DIGITALES 5 4 4 2 2 COMPOSICIÓN PLÁSTICA 6 LENGUAJES DIGITALES 6 4 4 LENGUAJES DIGITALES 7 CONTEXTO DIGITAL 1 2 2 HUMANISMO DIGITAL 1 2 2 2 2 INVESTIGACIÓN CREACIÓN 1 2 2 INVESTIGACIÓN CREACIÓN 2 IND CREATIVAS Y CULTURALES 1 IND CREATIVAS Y CULTURALES 2 2 2 ELECTIVA 1 2 2 ELECTIVA 2 2 2 ELECTIVA 3 2 2 ELECTIVA
+
+--- CU_DISENO_DIGITAL-POLITECNICO_GRANCOLOMBIANO.txt ---
+Fundamentos de
+Sonido
+Pensamiento Creativo Ilustración Digital Publicidad II
+Ética Empresarial Diseño de Interacción Hipermediaciones
+Habilidades
+Gerenciales
+Inglés General 2 Cultura Ambiental
+FACULTAD DE INGENIERÍA DISEÑO E INNOVACIÓN
+Proceso
+Administrativo
+Electiva IV Diseño de Interfaces
+Investigación
+Creación
+Tendencias
+Publicitarias
+Inglés General 4
+Inglés General 3
+Inglés General 1 Electiva II Tipografía
+Gráficos en
+Movimiento
+Electiva I
+Fundamentos de
+Medios Audiovisuales
+Semiótica
+Publicidad IV
+Diseño y Usabilidad
+Visualización de
+Información
+Historia del Diseño
+Agencia y Análisis
+Publicitario
+Electiva III
+Diseño para Nuevos
+Medios
+Diseño Sostenible Publicidad Digital
+Color
+Humanidades
+Digitales
+DISEÑO DIGITAL
+Modalidad Virtual  SNIES 110697
+Constitución e
+Instrucción Cívica
+Graficos II Publicidad I
+Publicidad III
+Técnicas para el
+Aprendizaje
+Autónomo
+Herramientas para la
+Productividad
+Matemáticas
+Fundamentos de
+Diseño
+Dibujo y Perspectiva
+Fundamentos de
+Fotografía
+Taller Creativo
+Fundamentos de
+Mercadeo y Publicidad
+Gráficos I
+Fundamentos de
+Redacción
+Opción de Grado
+TOTAL CRÉDITOS145
+TOTAL ASIGNATURAS50
+I Bloque Institucional
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+
+--- CU_DISENO_DIGITAL-UNIVERSIDAD_SERGIO_ARBOLEDA.txt ---
+PLAN DE ESTUDIOS DE LA CARRERA DE DISEÑO DIGITAL
+I SEMESTRE
+Historia y perspectivas del diseño
+Fundamentos del diseño
+Fundamentos y lógica para la resolución de problemas
+Taller de exploración creativa
+Geometría y proyección
+Lectura y Escritura Académicas I
+II SEMESTRE
+Emprendimiento  Negocios digitales
+Composición y técnicas de expresión
+Algoritmia
+Taller experiencial y contextual
+Técnicas de animación y Motion Graphics
+Lectura y Escritura Académicas II
+III SEMESTRE
+Metodología de la investigación
+Estética y creación digital
+Creación y Concept Art
+Animación experimental
+Fotografía digital
+IV SEMESTRE
+Gestión de proyectos de diseño
+Taller de semiótica digital
+Programación y creación I
+Diseño de videojuegos
+Producción y procesos interdisciplinarios Diseño contemporáneo y sostenible
+V SEMESTRE
+Protección de creaciones intelectuales
+Finanzas proyectos e innovación
+Diseño UXUI
+Programación y Creación II
+Taller de computación cognitiva
+VI SEMESTRE
+Electiva I
+Marketing y ventas
+Diseño de sistemas de información
+Interacción y nuevas realidades
+Marca personal y creación de contenidos
+VII SEMESTRE
+Electiva II
+Ética para el diseño en la era digital
+Anteproyecto
+Electiva Humanidades I
+Cátedra Rodrigo Noguera Laborde
+VIII SEMESTRE
+Electiva Humanidades II
+Prácticas Profesionales
+Proyecto de grado
+Electiva III
+estudiar Derecho en bogota universidad sergio arboleda carrera de Derecho
+ÉNFASIS EN DISEÑO DE VIDEOJUEGOS
+Lenguajes de programación
+Rigging y animación 2D y 3D
+Diseño y programación de videojuegos 2D
+Diseño y programación de videojuegos 3D
+Producción de videojuegos 3D
+ENFASIS EN DISEÑO INTEGRADO Y FABRICACIÓN DIGITAL
+Materiales y diseño análogo de objetos
+Modelado 3D y texturizado
+Escenarios y diseño experiencial
+Experiencias de manufactura digital
+Fablab  producción y nuevas tecnologías
+ÉNFASIS EN DISEÑO DE COMPONENTES VISUALES Y CREACIÓN DE CONTENIDOS
+Creación de contenidos e interacción digital
+Storytelling y narrativas audiovisuales
+Seguridad y gestión de datos digitales
+Públicos digitales e investigación de mercados
+Narrativas inmersivas
+
+
+--- CU_DISENO_DIGITAL_Y_MULTIMEDIA-UNIVERSIDAD_COLEGIO_MAYOR_DE_CUNDINAMARCA.txt ---
+UNIVERSIDAD COLEGIO MAYOR DE CUNDINAMARCA PROGRAMA DISEÑO DIGITAL Y MULTIMEDIA
+22
+34
+Ninguno
+4083130303
+4083120806
+Ninguno
+4033110703
+12
+25
+108
+132
+Ninguno
+4083120904
+4083121105
+Ninguno
+Ninguno
+4083130507
+Ninguno
+4083120101
+Ninguno
+Ninguno
+4083120401
+Ninguno
+4083111201
+Ninguno
+Cod 4083112601
+Ninguno
+4083111905
+4083110304
+4083112302
+4083120401
+4031112003
+4083111703
+4083111602
+4083110104
+ILUSTRACIÓN DIGITAL
+MODELADO DIGITAL
+ANIMACIÓN DIGITAL
+SIMULACIÓN Y EFECTOS ESPECIALES
+Cod 4083111602
+Cod 4031112003
+Cod 4083110104
+Cod 4083112505
+4083130108
+4083111406
+Ninguno
+Ninguno
+4083110601
+4083111102
+4083110503
+4083110904
+40831108054083112505
+PRIMER SEMESTRE
+SEGUNDO SEMESTRE
+TERCER SEMESTRE
+CUARTO SEMESTRE
+QUINTO SEMESTRE
+SEXTO SEMESTRE
+SÉPTIMO SEMESTRE
+OCTAVO SEMESTRE
+ÉTICA PROFESIONAL
+Cod 4083130601
+Cod 4083130202
+Cod 4083130303
+Cod 4083130404
+Cod 4083130507
+Cod 4083130108
+Ninguno
+Ninguno
+Cod 4083121208
+COMUNICACIÓN ORAL Y ESCRITA
+INGLÉS
+INTRODUCCIÓN A LA INVESTIGACIÓN EN DISEÑO
+PROYECTO DE INVESTIGACIÓN
+TÉCNICAS DE EXPRESIÓN
+DESARROLLO PERSONAL Y SOCIAL
+HÁBITAT MEDIO AMBIENTE Y
+VIVENCIA DE VALORES
+HÁBITAT
+HISTORIA DEL DISEÑO I
+HISTORIA DEL DISEÑO II
+PROBL SOCIALES COLOMBIANOS
+Cod 4083120401
+Cod 4083120602
+Cod 4083120806
+FUNDAMENTACIÓN DISCIPLINAR
+FORMACIÓN BÁSICA
+GERENCIA DE DISEÑO
+SEMINARIO DE INVESTIGACIÓN
+PROYECTO DE GRADO
+50
+75
+Cod 4083120701
+INTRODUCCIÓN A LA CONSTITUCIÓN
+COMPUTACIÓN GRÁFICA
+PROBABILIDAD Y ESTADÍSTICA
+Cod4083120101
+Cod 4083120202
+Cod 4083120503
+Cod 4083120904
+Cod 4083121105
+Cod 4083120306
+Cod 4083121008
+ÁLGEBRA Y TRIGONOMETRÍA
+CÁLCULO Y FUNCIONES
+FÍSICA
+INTRODUCCIÓN A LA PROGRAMACIÓN
+PROGRAMACIÓN ORIENTADA A OBJETOS
+Ninguno
+40831113074083130507
+40831124084083110407408311150640831212084083120306
+Cod 4083110407
+Cod 4083112109
+4083111804
+240
+IDEACIÓN Y VISUALIZACIÓN DEL ESPACIO
+Cod 4083111201
+Cod 4083112302
+Cod 4083111703
+Cod 4083110304
+Cod 4083111905
+Cod 4083111506
+Ninguno
+DISEÑO DE GUIONES
+LENGUAJE CINEMATOGRÁFICO
+DISEÑO DIGITAL DE SONIDO
+GESTIÓN DE PROYECTOS MULTIMEDIA
+DESARROLLO DE PRODUCTOS MULTIMEDIA
+PRÁCTICA EMPRESARIAL
+Cod 4083110206
+Cod 4083111307
+Cod 4083112408
+Cod 4083112209
+DISEÑO DE INTERFACES  WEB
+COMPOSICIÓN DIGITAL AUDIOVISUAL
+NOVENO SEMESTRE
+Cod4083110601
+Cod 4083111102
+Cod 4083110503
+Cod 4083110904
+Cod 4083110805
+PROFESIONAL
+DISEÑO Y MULTIMEDIA
+DISEÑO BIDIMENSIONAL
+DISEÑO TRIDIMENSIONAL
+DISEÑO ANÁLOGODIGITAL
+DISEÑO MULTIMEDIAL
+EXPRESIÓN Y REPRESENTACIÓN
+GEOMETRÍA DESCRIPTIVA
+REPRESENTACIÓN DIGITAL DE OBJETOS
+LENGUAJE ARQUITECTÓNICO
+CONSTRUCCIÓN DE ESCENARIOS
+LENGUAJE PROYECTO DE URBANISMO
+Cod 4033110703
+Cod 4083111804
+Cod 4083111005
+Cod 4083111406
+
+--- CU_DISENO_HIPERMEDIA-FUNDACION_UNIVERSITARIA_LOS_LIBERTADORES_UNAD.txt ---
+Plan de Estudios Fundamentos de la Forma 3 Créditos Programación Hipermedia 3 Créditos Fundamentos Matemáticos 3 Créditos Historia del Diseño 3 Créditos Teoría de la Imagen 3 Créditos Comunicación y Expresión 3 Créditos l Ilustración Vectorial 3 Créditos Tipografía 3 Créditos Análisis de Datos 3 Créditos Pensamiento Hipermedia 3 Créditos Taller de Escritura Narrativa 3 Créditos Producción Fotográfica 3 Créditos lI Sistemas Físicos Hipermedia 3 Créditos Diseño de Interfases Físicas y de Espacios 3 Créditos Fundamentos de Investigación 3 Créditos Semiótica 3 Créditos Inglés I 3 Créditos Electiva I 3 Créditos lII Diseño para 3D 3 Créditos Marketing Digital 3 Créditos Metodología de la Investigación en Diseño 3 Créditos Inglés II 3 Créditos Cátedra Libertadora 3 Créditos Electiva II 3 Créditos lV Diseño para Animación 3 Créditos Edición y Postproducción 3 Créditos Proyectos Creativos 3 Créditos Inglés III 3 Créditos Electiva III 3 Créditos Profundización I 3 Créditos V Diseño para Videojuegos 3 Créditos Animación Experimental 3 Créditos Programación para Videojuegos 3 Créditos Industrias Creativas y Culturales 3 Créditos Ética y Ciudadanía 3 Créditos Profundización II 3 Créditos VI Prototipado y Validación 3 Créditos Diseño de Interfaces Digitales 3 Créditos Arte Digital 3 Créditos Diseño Sonoro 3 Créditos Teoría General de Sistema 3 Créditos Profundización III 3 Créditos VII Diseño y Transformación Social 3 Créditos Práctica Profesional 9 Créditos Investigación Creación 3 Créditos Humanidades Digitales 3 Créditos
+
+--- CU_DISENO_INTERACTIVO-POLITECNICO_GRANCOLOMBIANO.txt ---
+0 38 0
+I Bloque Institucional 8
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Semiótica
+Audiovisual
+Taller de Fotografía
+Taller de Pensamiento
+Creativo
+Create Camps II
+Geometría
+Descriptiva
+Matemáticas Create Camps I Taller de Diseño Dibujo y Perspectiva
+Pensamiento
+Algorítmico
+TOTAL ASIGNATURAS 43
+DISEÑO INTERACTIVO
+Modalidad Presencial  SNIES 111116  Bogotá
+Procesos de
+Comunicación
+Imagen Digital
+Proceso
+Administrativo
+Ingeniería de Software I Taller Interactivo I Electiva III
+TOTAL CRÉDITOS 144
+INGENIERÍA DISEÑO E INNOVACIÓN
+Opción de Grado
+Lenguaje de la
+Imagen en
+Movimiento
+Tipografía
+Ilustración Digital Modelado 3D
+Programación para la
+Interacción
+Experiencia de
+Usuario
+Nuevos Medios
+Digitales
+Modelos y
+Prototipos
+Marketing en Diseño Taller interactivo II Electiva IV
+Cultura Ambiental
+Administración de
+Proyectos de
+Diseño
+Bases de Datos Animación 3D 1
+Diseño de
+Videojuegos
+Electiva II
+Programación de
+Computadores
+Cálculo 1
+Fundamentos de
+Interactividad
+Electiva I
+Estructura de Datos Diseño de Información Narrativa Digital Historia del Diseño Diseño para la web
+Reconocimiento
+de Créditos
+Emprendimiento 2 Créditos
+Bienestar 2 Créditos
+Investigaciónr 4 Créditos
+
+--- CU_DISENO_INTERACTIVO-UNIVERSIDAD_DE_BOGOTA_JORGE_TADEO_LOZANO.txt ---
+DISEÑO INTERACTIVO  PLAN 0523
+FUNDAMENTACIÓN BÁSICA
+Créditos	Asignatura	Prerrequisito	Oferta por temática
+3	PENSAMIENTO MATEMÁTICO EN ARTES Y DISEÑO	 	 
+3	HISTORIA DE LAS ARTES Y EL DISEÑO	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 
+3	PERCEPCIÓN	 	 
+3	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 	 
+3	SEMIÓTICA EN LAS ARTES Y EL DISEÑO	 	 
+3	TEORÍAS DE LAS ARTES Y EL DISEÑO	HISTORIA DE LAS ARTES Y EL DISEÑO	 
+FUNDAMENTACIÓN ESPECÍFICA
+Créditos	Asignatura	Prerrequisito	Oferta por temática
+3	ALGORITMOS Y PROGRAMACIÓN	FUNDAMENTOS DE PROGRAMACIÓN	 
+3	BOCETACIÓN Y PROYECCIÓN GRÁFICA	 	 
+4	COMPOSICIÓN GRÁFICA PARA INTERFACES	BOCETACIÓN Y PROYECCIÓN GRÁFICA	 
+TECNOLOGÍA I	 
+4	CONOCIMIENTO DE USUARIO	 	 
+3	EMPRENDIMIENTO EN INDUSTRIAS CULTURALES Y CREATIVAS	 	 
+3	FUNDAMENTOS DE PROGRAMACIÓN	PENSAMIENTO MATEMÁTICO EN ARTES Y DISEÑO	 
+3	HISTORIA DEL MEDIO DIGITAL	 	 
+4	NARRATIVAS I	HUMANIDADES I	 
+4	NARRATIVAS II	NARRATIVAS I	 
+2	PORTAFOLIO	TALLER III	 
+TALLER V	 
+TECNOLOGÍA V	 
+2	PROPIEDAD INTELECTUAL PARA INDUSTRIAS CULTURALES Y CREATIVAS	 	 
+3	SEMIÓTICA AUDIOVISUAL	SEMIÓTICA EN LAS ARTES Y EL DISEÑO	 
+4	TALLER I	CONOCIMIENTO DE USUARIO	 
+PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 
+6	TALLER II	ALGORITMOS Y PROGRAMACIÓN	 
+TALLER I	 
+6	TALLER III	TALLER II	 
+TECNOLOGÍA II	 
+TECNOLOGÍA III	 
+6	TALLER IV	TALLER II	 
+TECNOLOGÍA III	 
+PERCEPCIÓN	 
+6	TALLER V	TALLER IV	 
+TECNOLOGÍA IV	 
+TECNOLOGÍA V	 
+5	TALLER VI	TECNOLOGÍA V	 
+TALLER V	 
+TALLER III	 
+4	TECNOLOGÍA I	 	 
+4	TECNOLOGÍA II	NARRATIVAS I	 
+TECNOLOGÍA I	 
+4	TECNOLOGÍA III	TECNOLOGÍA I	 
+FUNDAMENTOS DE PROGRAMACIÓN	 
+4	TECNOLOGÍA IV	BOCETACIÓN Y PROYECCIÓN GRÁFICA	 
+NARRATIVAS I	 
+4	TECNOLOGÍA V	NARRATIVAS II	 
+TECNOLOGÍA II	 
+4	OPCIÓN DE GRADO	TALLER III	
+TALLER V	 
+TECNOLOGÍA V	 
+INNOVACIÓN Y EMPRENDIMIENTO III  aplica solo para la OPCIÓN DE GRADO EMPRENDIMIENTO incluyendo los anteriores	 
+FUNDAMENTACIÓN HUMANÍSTICA
+Créditos	Asignatura	Prerrequisito	Oferta por temática
+2	ÉTICA CIUDADANÍA Y PAZ	 	 
+2	HUMANIDADES I	 	
+2	HUMANIDADES II	HUMANIDADES I	
+2	HUMANIDADES III	HUMANIDADES II	
+IDIOMA EXTRANJERO
+Créditos	Asignatura	Prerrequisito	Oferta por temática
+2	INGLÉS A1	 	 
+2	INGLÉS A2	INGLÉS A1	 
+2	INGLÉS B1	INGLÉS A2	 
+EXAMEN DE SEGUIMIENTO
+Créditos	Asignatura	Prerrequisito	Oferta por temática
+0	EXAMEN DE SEGUIMIENTO	TALLER II	 
+NARRATIVAS I	 
+TECNOLOGÍA II	 
+ALGORITMOS Y PROGRAMACIÓN	 
+68 CRÉDITOS APROBADOS	 
+ELECTIVAS
+Créditos	Asignatura	Prerrequisito	Oferta por temática
+9	ELECTIVAS	 	
+

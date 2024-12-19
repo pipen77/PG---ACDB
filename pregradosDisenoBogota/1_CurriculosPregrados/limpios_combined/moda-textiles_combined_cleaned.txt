@@ -1,0 +1,879 @@
+--- CU_DISENO_DE_ALTA_COSTURA-CORPORACION_UNIVERSITARIA_TALLER_CINCO_CD.txt ---
+HTP HTI CR HTP HTI CR HTP HTI CR
+48 96 3 64 128 4 64 128 4 64 128 4 64 128 4 64 128 4
+HTP HTI CR HTP HTI CR
+64 128 4 32 64 2
+HTP HTI CR
+32 64 2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+DISEÑO PARA LA INDUSTRIA
+Ecodiseño
+20105701
+INGLÉS II
+HTP
+32
+HTI
+64
+CR
+2
+ANTE PROYECTO
+HTP
+32
+HTI
+64
+CR
+2
+SEMINARIO DE INVESTIGACIÓN
+20160002
+HTP
+32
+HTI
+64
+CR
+2
+SEMILLERO DE INVESTIGACIÓN
+20160003
+201702203
+HTP
+32
+HTI
+64
+CR
+2
+PROYECTO DE GRADO
+HTP
+32
+HTI
+64
+CR
+2
+METODOLOGÍA DE LA INVESTIGACIÓN
+20160001
+20105105 20105204 20105304 20105403
+HTP
+32
+ELECTIVA GENERAL
+201702106
+GESTIÓN EMPRESARIAL CULTURA DEL EMPRENDIMIENTO
+HTP
+32
+INNOVACION
+HTP
+32
+FINANZAS
+PATRONAJE DIGITAL  
+20105604
+HTP HTI CR
+32 64 2
+STYLING Y PRODUCCIÓN 
+DE MODA
+20105702
+HTP HTI CR
+32 64 2
+ALTA MODA CONTEMPORANEA
+Barroco actualidad
+DISEÑO DE ALTA COSTURA V
+Alta Costura
+DISEÑO DE ALTA COSTURA I 
+Básicos
+Básicos  Falda y Blusa
+20105201
+FUNDAMENTOS TEXTILES
+2010520220105102
+20101101
+FUNDAMENTOS DE  ALTA COSTURA
+Teoría del color
+HTP HTI CR
+48 96 3
+20105103
+20105104
+Sastrería Femenina
+20105401
+ILUSTRACION DE MODA IV
+DISEÑO DE ALTA COSTURA II
+Básicos 
+Básicos  Bata
+20105301 
+20105302
+ILUSTRACION DE MODA III
+ILUSTRACION DE MODA II
+INGLÉS I 
+DISEÑO DE ALTA COSTURA III
+Sastrería Masculina
+20105501
+PATRONAJE Y TECNICAS DE
+CONFECCIÓN IV
+20105502 20105603 
+20105504
+PROFUNDIZACION
+HTP HTI CR
+32 64 2
+20105605
+PROFUNDIZACION
+HTP HTI CR
+32 64 2
+20105703
+PROFUNDIZACION
+HTP HTI CR
+64 128 4
+PRACTICAS
+HTP HTI CR
+32 64 2
+20105505
+COMUNICACION VISUAL 
+DE LA MODA
+HTP HTI CR
+32 64 2
+ADMINISTRACION EMPRESARIAL
+HTP HTI CR
+32 64 2
+HABILIDADES GERENCIALES
+DISEÑO DE ALTA COSTURA VII
+Vestuario Escénico
+20105801
+INGLÉS III
+ILUSTRACION DE MODA I
+DISEÑO BASICO
+PATRONAJE Y TECNICAS DE
+CONFECCIÓN III 
+20105402
+Gala y Novia
+20105601
+DISEÑO PARA LA INDUSTRIA I
+Prtporter Infantil
+20105602
+DISEÑO DE ALTA COSTURA IV 
+PATRONAJE Y TECNICAS DE
+CONFECCIÓN I 
+PATRONAJE Y TECNICAS DE
+CONFECCIÓN II 
+PATRONAJE Y TECNICAS DE
+CONFECCIÓN V 
+HTP HTI CR
+32 64 2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64
+CR
+2
+HTP
+32
+HTI
+64 
+CR
+2
+LECTURA Y ESCRITURA ACADÉMICA
+HTP
+32
+HTI
+64
+CR
+2
+HTI
+64
+CR
+2
+HTI
+64
+CR
+2
+CIUDADANÍA Y ETICA
+201702102
+2014401
+201702101 201702103
+201702201 201702202
+2014402
+LITERATURA HISTORIA DEL ARTETÉCNICAS DE EXPRESIÓN Y LENGUAJE
+HTP HTI CR
+32 64 2
+TEORÍA E HISTORIA DEL DISEÑO DE ALTA COSTURA
+FUNDAMENTOS MANUALES Y TÉCNICOS 
+HTP HTI CR
+32 64 2
+MERCADEO DEL SISTEMA 
+MODA I
+HTP HTI CR
+32 64 2
+MERCADEO DEL SISTEMA 
+MODA II
+HTP
+32
+HTI
+64
+CR
+2
+CR
+2
+HTI
+64
+Prehistoria al Barroco
+20105404
+20105203 20105303
+20105503
+201702104
+20144032014404
+201702105
+20160004 20105802
+2014405
+20101801
+Elaboro Comité Curricular Programa Profesional Diseño de Alta Costura
+Manuel Fernando Díaz de Castillo
+TOTAL DE CREDITOS
+18
+TOTAL DE CREDITOS
+18
+TOTAL DE CREDITOS
+20
+TOTAL DE CREDITOS
+16
+TOTAL DE CREDITOS
+12
+TOTAL DE CREDITOS
+136
+TOTAL DE CREDITOS
+16
+TOTAL DE CREDITOS
+18
+TOTAL DE CREDITOS
+18
+34
+ 5
+13
+52
+65 
+10 
+25 
+Jorge Hernán Rosero Pulido 
+Reviso Líder Siac  
+Ing Yanneth Méndez Martín  
+Aprobó Presidente Consejo Académico  
+
+
+--- CU_DISENO_DE_MODAS-CORPORACION_ESCUELA_DE_ARTES_Y_LETRAS.txt ---
+Componente Proyectual
+Taller Básico de Diseño de Modas
+Confección Básica
+Métodos de Diseño y de Diseñar
+Taller de Diseño y Composición
+Taller de Investigación en Diseño Femenino
+Patronaje Escalado y Confección Femenino
+Taller de Ilustración de Moda
+Taller de investigación en Diseño Masculino
+Patronaje Escalado y Confección Masculino
+Moda Sostenible
+Procesos de Colorimetría
+Taller de investigación en Diseño de Moda Infantil
+Taller de Ilustración Digital de Moda
+Componente de Tecnológico
+3
+
+2
+2
+3
+3
+Geometría de Patrones Femenino
+Dibujo Plano
+Geometría de Patrones Masculino
+Patronaje Digital
+Materiales Textiles
+Componente Humanístico
+3
+
+1
+3
+3
+1
+Antropología
+Sociología
+Constitución Política
+Psicología
+Ética
+1
+1
+1
+Cátedra Ealista
+Consejería I
+Consejería II
+Metodología de Investigación
+Derecho Civil y Comercial
+Énfasis del programa
+
+Componente de Expresión y Comunicación
+3
+
+3
+3
+3
+3
+
+3
+3
+3
+
+3
+Español
+Dibujo Artístico
+Semiótica
+Dibujo Anatómico
+Inglés I
+Inglés II
+Inglés III
+Inglés IV
+Inglés V
+Componente Teoría e Historia del Diseño
+3
+3
+2
+Panorámica Universal del Arte
+Modernidad y Postmodernidad en el Arte
+Historia de Modas
+Teoría de Moda
+Componente de Gestión
+1
+
+6
+3
+
+2
+2
+2
+Pensamiento Económico
+Estadística Básica
+Matemáticas
+Psicología del Consumidor
+Mercadeo
+Pasantía
+Emprendimiento con Responsabilidad Social
+2
+
+Gestión de Moda
+3
+
+3
+3
+
+3
+3
+
+2
+3
+6
+
+3
+2
+2
+Gestión Empresarial
+Taller de Investigación en Alta Costura
+Investigación Proyecto de Grado
+Proyecto de Grado
+Planeación Estratégica
+Diseño Portafolio Moda
+Estadística Aplicada
+Investigación Mercadeo de la Moda
+Introducción a la Administración
+Recursos Humanos
+Diseño de Accesorios
+Vitrinismo
+Costos y Presupuestos
+Organización de Eventos
+
+2
+
+Comunicación de la Moda
+3
+
+3
+3
+6
+3
+2
+2
+3
+Taller de Proyección y Construcción de Imagen
+Investigación Proyecto de Grado
+Proyecto de Grado
+Taller de Investigación en Alta Costura
+Publicidad y Moda Contemporánea
+Fundamentos de la Comunicación
+Diseño de Portafolio de Moda
+Organización de Eventos
+Estrategia de Medios Online
+Redacción
+3
+3
+3
+Periodismo y Crítica de Moda
+3
+2
+O
+O
+Producción Multimedial
+Vitrinismo
+Título a otorgar
+Profesional en Diseño de Modas
+Duración
+158 créditos académicos
+Jornada
+Única
+Metodología
+Presencial
+
+--- CU_DISENO_DE_MODAS-CORPORACION_UNIVERSITARIA_DE_CIENCIA_Y_DESARROLLO-UNICIENCIA.txt ---
+PLAN DE ESTUDIOS DISEÑO DE MODAS Sede Bogotá SEMESTRE NOMBRE DE LA MATERIA I II III IV V VI VII VIII Diseño Femenino  Ilustración Femenina Patronaje Femenino Taller de Confección Femenino  Historia del Traje Universal Fundamentos de Administración Fundamentos Textiles Retoque Digital Diseño Masculino  Ilustración Masculina Patronaje Masculino Taller de Confección Masculino Contabilidad Básica Intervención Textil Electiva Disciplinaria Ilustración Digital Diseño Infantil Ilustración Infantil Patronaje Infantil Taller de Confección Infantil Historia del Traje Colombiano Costos Electiva Interdisciplinaria Portafolio Digital Diseño Deportivo Taller de Tintorería y Estampación Taller de Accesorios de Moda Patronaje CADCAM Investigación de Mercados PICET Historia del Arte Moderno Diseño de Corsetería Moda Sostenible Maquinaria e Insumos Taller de Cosetería Semiótica y Semiología de la Moda Control de Calidad PICE III Escalado Trazo CADCAM Diseño de Vestuario Escénico Escenografía y Ambientación Producción de Eventos Taller de Alta Moda Inteligencia de Mercados Internacionales PICE III Derecho Constitucional Desarrollo Integral de Colección Gerencia de Moda Producción en Planta Prácticas Publicidad y Marketing de Moda Comercialización de Productos de Moda Electiva Humanística Ética Profesional  18 Diseño básico  2 Dibujo y Teoría del Color  2 Ergonomía y Antropometría  2 Patronaje Básico  3 Taller de Confección Básica  3 Dibujo Plano  2 Investigación de Tendencias  2 Matemática Básica  1 Electiva Institucional  1 
+
+--- CU_DISENO_DE_MODAS-CORP_UNIF_NAC_DE_EDU_SUP-CUN-.txt ---
+Componentes TRANSVERSAL INSTITUCIONAL EMPRENDIMIENTO CIENCIA BÁSICA HUMANIDADES TECNOLOGÍA INVESTIGACIÓN PROFUNDIZACIÓN COMPLEMENTARIA PROPEDÉUTICA PROPEDÉUTICO ELECTIVA  FLEXIBLE TOTAL CREDITOS 15 18 Séptimo Semestre Octavo Semestre Noveno Semestre 17 16 17 CRÉDITOS CRÉDITOS CÁTEDRA DE PENSAMIENTO CUNISTA II 1 CRÉDITOS DIRECCIÓN CREATIVA 2 CRÉDITOS ELECTIVA DE PROFUNDIZACIÓN II 2 ELECTIVA DE PROFUNDIZACIÓN III 2 ÉTICA Y RESPONSABILIDAD SOCIAL 2 CÁTEDRA DE PENSAMIENTO CUNISTA III FORMACIÓN CIUDADANA 1 2 ESPÍRITU EMPRENDEDOR 2 CRÉDITOS ELECTIVA COMPLEMENTARIA II 2 ELECTIVA COMPLEMENTARIA III Áreas Quinto Semestre Ciclo Profesional en Diseño de Modas Componentes Sexto Semestre TALLER DE PRODUCCIÓN AVANZADA II 3 Séptimo Semestre Octavo Semestre Noveno Semestre INVESTIGACIÓN DISCIPLINAR PRÁCTICAS Y OPCIÓN DE GRADO GESTIÓN COMERCIAL ÁREA DE DESARROLLO DIGITAL EN MODAS ÁREA DE CREACIÓN ÁREA DE PRODUCCIÓN CRÉDITOS CRÉDITOS DISCIPLINAR TALLER CREATIVO IV 3 TALLER DE PRODUCCIÓN AVANZADA 3 TALLER CREATIVO V 3 CRÉDITOS TECNOLOGÍAS DE PRODUCTIVIDAD EN MODA 2 ILUSTACIÓN DIGITAL II 2 PRESENTACIÓN DE PROYECTOS 2 DISEÑO MULTIMEDIA 2 PORTAFOLIO 2 CRÉDITOS COSTOS Y PRESUPUESTOS 2 CRÉDITOS CRÉDITOS CREATIVIDAD Y PENSAMIENTO INNOVADOR PARA ECBA 2 INNOVACIÓN CIENCIA Y TECNOLOGÍA PARA ECBA 2 ESTRATEGIAS PARALA INDUSTRIA DE LA MODA 2 COMERCIALIZACIÓN DE PRODUCTOS DE MODA 2 GLOBALIZACIÓN EN LA INDUSTRIA DE LA MODA 2 PLAN DE NEGOCIO PARA ECBA 2 MARKETING ESTRATÉGICO PARA PRODUCTOS DEL SECTOR MODA 3 PRÁCTICA CICLO TECNOLÓGICO OPCIÓN DE GRADO CICLO TECNOLÓGICO 2 2 PRÁCTICAS CICLO PROFESIONAL OPCIÓN DE GRADO CICLO PROFESIONAL 2 2 Componentes TRANSVERSAL INSTITUCIONAL EMPRENDIMIENTO CIENCIA BÁSICA HUMANIDADES TECNOLOGÍA INVESTIGACIÓN PROFUNDIZACIÓN COMPLEMENTARIA PROPEDÉUTICA PROPEDÉUTICO ELECTIVA  FLEXIBLE EXPLORAR PARA INVESTIGAR TOTAL CREDITOS 17 16 17 17 contactenoscuneduco    Llama gratis desde tu celular 01 8000 11 54 11 CRÉDITOS CRÉDITOS CRÉDITOS CRÉDITOS CRÉDITOS CRÉDITOS CRÉDITOS CRÉDITOS RAZONAMIENTO CUANTITATIVO 2 ELECTIVA COMPLEMENTARIA I 2 ELECTIVA DE PROFUNDIZACIÓN I 2 CÁTEDRA DE PENSAMIENTO CUNISTA I 1 INFORMÁTICA Y CONVERGENCIA TECNOLÓGICA 2 2 PROYECTO DE VIDA 2 HABILIDADES COMUNICATIVAS 2 PROGRAMACIÓN DE INSUMOS Y BASES TEXTILES INVESTIGACIÓN DISCIPLINAR PRÁCTICAS Y OPCIÓN DE GRADO GESTIÓN COMERCIAL ÁREA DE DESARROLLO DIGITAL EN MODAS ÁREA DE CREACIÓN ÁREA DE PRODUCCIÓN CRÉDITOS CRÉDITOS Áreas Primer Semestre Segundo Semestre Tercer Semestre Cuarto Semestre FUNDAMENTACIÓN TEXTIL TALLER BÁSICO DE PRODUCCIÓN 2 4 DESARROLLO E INTERVENCIÓN TEXTIL TALLER DE PRODUCCIÓN I 2 3 CRÉDITOS CRÉDITOS CRÉDITOS CREACIÓN BÁSICA ILUSTRACIÓN DE MODA 3 2 PRÁCTICA CICLO TÉCNICO OPCIÓN DE GRADO CICLO TÉCNICO 2 2 TALLER CREATIVO I 3 SOFTWARE EN LA INDUSTRIA DE LA MODA 2 TALLER DE PRODUCCIÓN II 3 TALLER DE PRODUCCIÓN III 3 TALLER CREATIVO III 3 SOFTWARE EN LA INDUSTRIA DE LA MODA II 2 PLANO TÉCNICO DIGITAL ILUSTRACIÓN DIGITAL I 2 2 TALLER CREATIVO II HISTORIA UNIVERSAL DEL TRAJE 3 3 LÓGICA PARA ECBA 2 ESTADÍSTICA DESCRIPTIVA PARAECBA 2 DISCIPLINAR Técnica Profesional en Elaboración de Vestuario y Patronaje 
+
+--- CU_DISENO_DE_MODAS-FUNDACION_UNIVERSITARIA_DEL_AREA_ANDINA.txt ---
+  Dibujo a Mano Alzada   Diseño Básico   Pensamiento Lógico   Inglés I   Arte Cultura y Sociedad   Color   Cátedra Pablo Oliveros Marmolejo   Ser Be It   Arquitectura del Vestido I   Semiótica   Teoría del Diseño   Inglés II   Diseño I   Figura Humana   Metodologías para el Desarrollo del Pensamiento Creativo   Saber Convivir Live It   Ilustración de Moda I   Arquitectura del Vestido II   Diseño II   Inglés III   Fotografía Básica   Estética   Saber Hacer Do It   Diseño III   Arquitectura del Vestido III   Inglés IV   Modelado 3D   Ilustración de Moda II   Saber Conocer Know It   Inglés V   Diseño de Experiencias   Arquitectura del Vestido IV   Diseño Avanzado I   Ilustración de Moda III   Línea de Énfasis  Emprendimiento   Línea de Énfasis  Escaparatismo y Stand Ferial   Inglés VI   Arquitectura del Vestido V   Diseño Avanzado II   Historia del Diseño   Electiva I   Electiva II   Línea de Énfasis  Innovación Rentable y Sostenible   Línea de Énfasis  Visual Merchandising   Investigación Creación I   Arquitectura del Vestido VI   Diseño Avanzado III   Electiva III   Electiva IV   Electiva V   Línea de Énfasis  Propuesta de Valor   Línea de Énfasis  Social Media Marketing   Investigación Creación II   Práctica Profesional   Diseño Avanzado IV   Producción Industrial de Colecciones   Línea de Énfasis  Gestión de Proyectos   Línea de Énfasis  Marketing Relacional
+
+--- CU_DISENO_DE_MODAS-POLITECNICO_GRANCOLOMBIANO.txt ---
+I Bloque Institucional 13 0
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Ilustración para
+Modas
+Patronaje y Confección
+Lencería
+Tejidos Electiva III
+Matemáticas
+Comunicación y
+Sociedad
+Dibujo de Figura
+Humana
+Diseño de Modas II
+FACULTAD DE INGENIERÍA DISEÑO E INNOVACIÓN
+Ensamblaje y
+Producción
+Accesorios
+Electiva I
+Cultura Ambiental Figurín II Historia del Traje II
+Patronaje y
+Confección Hombre
+Proceso
+Administrativo
+Arte y Estética
+Semiótica Audiovisual
+Electiva II
+Diseño de Modas III Figurín I Historia del Traje I
+DISEÑO DE MODAS
+Modalidad Presencial  SNIES 54726  Bogotá
+Estampación Textil y
+Técnicas de Reserva
+Opción de Grado Electiva V
+Patronaje Digital Tecnología Textil Electiva IV
+Patronaje y
+Confección Mujer
+Taller de Fotografía
+TOTAL CRÉDITOS 140
+TOTAL ASIGNATURAS 40
+Requisito Institucional Inglés
+Emprendimiento 3 Créditos
+Informática 4 Créditos
+Investigación o Bienestar 6 Créditos
+
+--- CU_DISENO_DE_MODAS-UNIVERSIDAD_ECCI.txt ---
+SEMESTRE
+CONVENCIÓN
+INTENSIDAD HORARIA SEMANAL
+CURSO PRERREQUISITOS
+CAMPO DE FORMACIÓN
+ID CURSO O EQUIVALENCIA PLAN DE ESTUDIOS ANTIGUO
+A
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6436
+A
+FIGURÍN E ILUSTRACIÓN DE ALTA GALA
+2 HORAS
+NINGUNO
+BASICA DE LA DISCIPLINA
+6437
+FIGURÍN E ILUSTRACIÓN DE ALTA GALA
+A
+PATRONAJE VESTUARIO FEMENINO GALA
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6438
+PATRONAJE VESTUARIO FEMENINO GALA
+A
+CONFECCIÓN VESTUARIO FEMENINO GALA
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6439
+CONFECCIÓN VESTUARIO FEMENINO GALA
+A
+CONTROL DE CALIDAD
+3 HORAS
+NINGUNO
+DISCIPLINAR
+6440
+CONTROL DE CALIDAD
+A
+EMPRENDIMIENTO E INNOVACION TECNOLOGICA
+3 HORAS
+NINGUNO
+SOCIO HUMANISTICA
+5117
+EMPRENDIMIENTO E INNOVACION TECNOLOGICA
+A
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6444
+A
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6436
+A
+FIGURÍN E ILUSTRACIÓN DE ALTA GALA
+2 HORAS
+NINGUNO
+BASICA DE LA DISCIPLINA
+6437
+FIGURÍN E ILUSTRACIÓN DE ALTA GALA
+A
+PATRONAJE VESTUARIO FEMENINO GALA
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6438
+PATRONAJE VESTUARIO FEMENINO GALA
+A
+CONFECCIÓN VESTUARIO FEMENINO GALA
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6439
+CONFECCIÓN VESTUARIO FEMENINO GALA
+A
+CONTROL DE CALIDAD
+3 HORAS
+NINGUNO
+DISCIPLINAR
+6440
+CONTROL DE CALIDAD
+A
+EMPRENDIMIENTO E INNOVACION TECNOLOGICA
+3 HORAS
+NINGUNO
+SOCIO HUMANISTICA
+5117
+EMPRENDIMIENTO E INNOVACION TECNOLOGICA
+A
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6444
+A
+3 HORAS
+NINGUNO
+BASICA DE LA DISCIPLINA
+6447
+A
+2 HORAS
+NINGUNO
+BASICA DE LA DISCIPLINA
+4960
+A
+2 HORAS
+NINGUNO
+BASICA DE LA DISCIPLINA
+4959
+A
+DISEÑO VESTUARIO ESCENICO Y TV
+3 HORAS
+NINGUNO
+DISCIPLINAR
+6448
+DISEÑO VESTUARIO ESCENICO Y TV
+A
+ELECTIVA ADMINISTRACIÓN
+4 HORAS
+NINGUNO
+DISCIPLINAR
+6449
+DIRECCION DE PERSONAS
+A
+LOGISTICA DE ABASTECIMIENTO
+2 HORAS
+NINGUNO
+DISCIPLINAR
+6467
+LOGISTICA DE ABASTECIMIENTO
+A
+INVESTIGACIÓN APLICADA
+3 HORAS
+NINGUNO
+SOCIO HUMANISTICA
+6607
+INVESTIGACIÓN APLICADA
+SEMESTRE
+INTENSIDAD HORARIA
+6
+2 HORAS
+8
+4 HORAS
+FECHA DE APROBACIÓN
+3
+ASIGNATURAS ELECTIVAS
+NOMBRE DEL CURSO
+NÚMERO DE CRÉDITOS ACADÉMICOS
+ELECTIVA PROFESIONAL2
+2
+4
+2
+CAMPO DE FORMACIÓN
+DISCIPLINAR
+DISCIPLINAR
+SEPTIMO
+DISEÑO VESTUARIO FEMENINO GALA
+ELECTIVA PROFESIONAL2
+OCTAVO
+MAQUILLAJE SOCIAL Y DE FANTANSIA
+FOTOGRAFIA DE MODA
+ACCESORIOS UTILITARIOS
+DECANO
+CURSO
+NÚMERO DE CRÉDITOS ACADÉMICOS
+NOMBRE CURSO EQUIVALENTE PLAN DE ESTUDIOS ANTIGUO
+SEXTO
+DISEÑO VESTUARIO FEMENINO GALA
+2
+ELECTIVA PROFESIONAL2
+3
+FOTOGRAFIA DE MODA
+ACCESORIOS UTILITARIOS
+MAQUILLAJE SOCIAL Y DE FANTANSIA
+Recuerde que para graduarse debe cumplir con los requisitos internos que fija la Universidad dentro de su normativa y los exigidos por el Ministerio de Educación Nacional
+ELABORADO POR
+REVISADO POR
+APROBADO POR
+DIRECTOR DEL PROGRAMAMARIA ALEXANDRA PEDREROS BERNAL
+FECHA DE ELABORACIÓN
+2832023
+FECHA DE REVISIÓN
+DIRECTOR DE CURRÍCULO E INVESTIGACIÓN FORMATIVA
+CONVENCIONES
+NH ASIGNATURA NO HABILITABLE
+V ASIGNATURA VIRTUAL
+DISEÑO VESTUARIO FEMENINO GALA
+
+--- CU_DISENO_TEXTIL_PARA_LA_INDUSTRIA-CORPORACION_UNIVERSITARIA_TALLER_CINCO_CD.txt ---
+PLAN DE ESTUDIOS
+1er SEMESTRE
+Diseño bitridimensional
+Introducción al Diseño Textil
+Fundamentos textiles
+Teoría del color
+Dibujo artístico
+Psicología de la forma
+Ciudadanía y democracia
+Técnicas de expresión y lenguaje
+Historia del Arte I Arte y sociedad
+2do SEMESTRE
+Arquitectura del tejido plano
+Procesos de confección y patronaje
+Tintorería I Básica
+Hilatura
+Ilustración del figurín
+Fotografía básica
+Semiología de la imagen
+Literatura I Cuento
+Historia del Arte II Estilos artísticos
+3er SEMESTRE
+Diseño Jacquard
+Taller textil Tejeduría plana básica
+Tintorería II Industrial
+Composición y comportamiento de fibras y tejidos
+Ilustración textil I Básico
+Tendencia textil
+Metodología de la investigación I
+Ética profesional
+Literatura II Novela
+Historia del Arte II Vanguardias
+4to SEMESTRE
+Arquitectura del tejido de punto
+Taller textil Tejeduría plana avanzada
+Colorimetría textil
+Polímeros en aplicación textil
+Ilustración textil II Avanzado
+Mercadeo textil
+Comunicación y nuevos medios
+Literatura III Teatro
+Historia del textil Hasta el siglo XIX
+5to SEMESTRE
+Diseño de punto y patronaje
+Taller textil Tejeduría especializados
+Fibras funcionales y telas inteligentes
+Control de calidad
+Estampación digital
+Instrumentos métodos y análisis de resultados
+Antropología visual
+Historia del textil Siglo XX y XXI
+6to SEMESTRE
+Diseño de punto Industrial
+Taller textil Tejeduría experimental
+Acabados e impregnaciones
+Cálculos de producción textil
+Estampación Recubrimientos y superficies
+Derecho comercial
+Gestión empresarial
+Historia del textil América
+7mo SEMESTRE
+Ecoindustria y sostenibilidad
+Taller textil Tejeduría industrial
+Estampación industrial
+Gestión textil
+Seminario de investigación
+8vo SEMESTRE
+Énfasis de profundización en tejeduría acabados y gestión textil
+Producción textil y costos
+Creación y construcción de marca
+Proyecto de grado
+
+--- CU_DISENO_Y_GESTION_DE_LA_MODA-FUNDACION_UNIVERSIDAD_DE_BOGOTA_JORGE_TADEO_LOZANO.txt ---
+DISEÑO Y GESTIÓN DE LA MODA  PLAN 0524
+FUNDAMENTACIÓN BÁSICA
+Créditos	Asignatura	Requisito	Oferta por temática
+3	HISTORIA DE LAS ARTES Y EL DISEÑO	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 
+3	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 	 
+3	SEMIÓTICA EN LAS ARTES Y EL DISEÑO	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 
+3	TEORÍAS DE LAS ARTES Y EL DISEÑO	HISTORIA DE LAS ARTES Y EL DISEÑO	 
+3	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 	 
+FUNDAMENTACIÓN ESPECÍFICA
+Créditos	Asignatura	Requisito	Oferta por temática
+3	CONTROL DE CALIDAD DE LA MODA	TALLER DE MODA II	 
+PROCESOS TEXTILES	 
+3	CULTURA DEL VESTIR	HISTORIA DE LAS ARTES Y EL DISEÑO	 
+3	DIBUJO DE FIGURINES	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 
+2	DIBUJO PLANO	DIBUJO DE FIGURINES	 
+4	DIRECCIÓN DE FOTOGRAFÍA PARA MODA	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 
+FUNDAMENTO PROYECTUAL DE LA MODA	 
+5	DISEÑO DE ACCESORIOS	TALLER DE MODA III	 
+ILUSTRACIÓN DE MODA	 
+2	DISEÑO DE MODA	 	 
+3	EMPRENDIMIENTO EN INDUSTRIAS CULTURALES Y CREATIVAS	 	 
+2	FUNDAMENTO PROYECTUAL DE LA MODA	DISEÑO DE MODA	 
+PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 
+4	GESTIÓN DE LA MODA	CONTROL DE CALIDAD DE LA MODA	 
+EMPRENDIMIENTO EN INDUSTRIAS CULTURALES Y CREATIVAS	 
+3	HERRAMIENTAS DE COMPUTACIÓN PARA EL DISEÑO DE MODA	DIBUJO PLANO	 
+2	HISTORIA DEL TRAJE	 	 
+2	ILUSTRACIÓN DE MODA	HERRAMIENTAS DE COMPUTACIÓN PARA EL DISEÑO DE MODA	 
+3	MATERIAS PRIMAS	 	 
+4	MERCADEO DE LA MODA	OBSERVATORIO DE TENDENCIAS	 
+3	OBSERVATORIO DE TENDENCIAS	DIRECCIÓN DE FOTOGRAFÍA PARA MODA	 
+DISEÑO DE MODA	 
+4	PORTAFOLIO	DISEÑO DE ACCESORIOS	 
+GESTIÓN DE LA MODA	 
+PRESENTACIÓN DE COLECCIONES	 
+VESTUARIO ESCÉNICO	 
+4	PRESENTACIÓN DE COLECCIONES	TALLER DE MODA IV	 
+3	PROCESOS TEXTILES	TÉCNICA DEL COLOR	 
+2	PROPIEDAD INTELECTUAL PARA INDUSTRIAS CULTURALES Y CREATIVAS	 	 
+3	SEMIÓTICA DEL TRAJE	SEMIÓTICA EN LAS ARTES Y EL DISEÑO	 
+6	TALLER DE MODA I	FUNDAMENTO PROYECTUAL DE LA MODA	 
+TÉCNICA DEL COLOR	 
+DIBUJO DE FIGURINES	 
+6	TALLER DE MODA II	TALLER DE MODA I	 
+6	TALLER DE MODA III	TALLER DE MODA II	 
+6	TALLER DE MODA IV	TALLER DE MODA III	 
+OBSERVATORIO DE TENDENCIAS	 
+CULTURA DEL VESTIR	 
+2	TÉCNICA DEL COLOR	MATERIAS PRIMAS	 
+4	VESTUARIO ESCÉNICO	TALLER DE MODA IV	 
+4	OPCIÓN DE GRADO	DISEÑO DE ACCESORIOS	
+GESTIÓN DE LA MODA
+PRESENTACIÓN DE COLECCIONES
+VESTUARIO ESCÉNICO
+FUNDAMENTACIÓN HUMANÍSTICA
+Créditos	Asignatura	Requisito	Oferta por temática
+2	ÉTICA CIUDADANÍA Y PAZ	 	 
+2	HUMANIDADES I	 	
+2	HUMANIDADES II	HUMANIDADES I	
+2	HUMANIDADES III	HUMANIDADES II	
+IDIOMA EXTRANJERO
+Créditos	Asignatura	Requisito	Oferta por temática
+2	INGLÉS A1	 	 
+2	INGLÉS A2	INGLÉS A1	 
+2	INGLÉS B1	INGLÉS A2	 
+EXAMEN DE SEGUIMIENTO
+Créditos	Asignatura	Requisito	Oferta por temática
+0	EXAMEN DE SEGUIMIENTO	PROCESOS TEXTILES	 
+HERRAMIENTAS DE COMPUTACIÓN PARA EL DISEÑO DE MODA	 
+OBSERVATORIO DE TENDENCIAS	 
+TALLER DE MODA II	 
+68 CRÉDITOS APROBADOS	 
+ELECTIVAS
+Créditos	Asignatura	Requisito	Oferta por temática
+9	ELECTIVAS	 
+

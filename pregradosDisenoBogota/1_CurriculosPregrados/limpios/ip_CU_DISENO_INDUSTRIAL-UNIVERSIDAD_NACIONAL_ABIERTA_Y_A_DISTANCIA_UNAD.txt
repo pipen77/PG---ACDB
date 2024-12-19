@@ -1,0 +1,398 @@
+PERIODO I
+Física General
+100413
+O
+
+3
+Electivo Disciplinar
+Común II
+E
+3
+PERIODO II
+PERIODO III
+PERIODO IV
+PERIODO V
+PERIODO VI
+PERIODO VII
+PERIODO VIII
+PERIODO IX
+CSS I
+ Ética y
+Ciudadanía
+400023
+Proyecto de Diseño I
+
+212069
+
+2
+Electivo Componente
+Ciencias Básicas
+E
+Estadística y
+Probabilidad
+211622
+
+Química General
+
+CLE II
+Inglés A2
+
+CTC I
+Herramientas
+Digitales para la
+Gestión del
+Conocimiento
+200610
+
+3
+CLE I
+Inglés A1
+900001
+O
+
+3
+Teórico 
+Práctico
+Obligatorio  Electivo
+Nombre curso
+Número créditos
+CLE III
+Inglés B1
+
+Electivo Disciplinar
+Especifico I
+E
+TP
+3
+Electivo de Formación
+Complementaria I
+
+Ingles B1
+
+Introducción al
+Diseño
+
+CTC II
+Competencias
+Comunicativas
+
+Calculo Diferencial
+
+C Región Social
+Solidaria
+REQUISITO GRADO
+Práctica Profesional
+
+Proyecto de Grado
+
+Electivo de Formación
+Complementaria II
+
+Electivo de Formación
+Complementaria III
+
+Electivo Disciplinar
+Especifico V
+
+Electivo Disciplinar
+Especifico IV
+
+Electivo Disciplinar
+Especifico III
+
+Diseño Industrial
+Malla Curricular
+O
+Obligatorio
+Clasificación del Curso
+
+Electivo
+
+Teórico
+
+
+Práctico
+Tipo de Curso
+TT
+PP
+Teórico Práctico Metodológico
+edra Unadista
+
+Electivo Componente
+
+Fundamentos y
+Generalidades de
+Investigación
+Pensamiento
+Lógico Matemático
+Dibujo para Diseño
+
+Proyecto de Diseño II
+Fundamentos de Gestión Integral
+Dibujo de Ingeniería
+
+Modelado Digital 3D
+Proyecto de Diseño III
+Proyecto de Diseño IV
+Proyecto de Diseño V
+Proyecto de Diseño VI
+Proyecto de Diseño
+Forma y Modelos
+
+Tecnología y Cultura
+218002
+
+Historia del Diseño I
+
+Electivo Componente
+Económico
+Administrativo I
+
+Electivo
+Disciplinar Común I
+
+Diseño de Empaques
+y Embalajes
+
+Arquitectura de
+Producto Alimenticio
+
+Etnografía para
+Diseño
+
+Diseño Ergonómico
+
+Materiales para
+Diseño
+
+Procesos para Diseño
+
+Diseño sustentable
+
+Electivo Disciplinar
+Especifico II
+
+Contabilidad y Costos
+
+Historia del Diseño II
+
+SERVICIO SOCIAL
+UNADISTA
+Gestión de Proyectos
+de Diseño
+
+Componente de Ciencias Básicas
+
+Componente TIC
+
+Componente Lengua Extranjera
+
+Componente Económico Administrativo
+
+Componente Social y Solidario
+
+Componente Investigativo
+Componentes académicos
+Electivo Disciplinar
+Común III
+E
+3
+TP
+Requisitos
+Código curso
+Observaciones
+
+Diseño Industrial
+Diseño Industrial Malla CurricularMalla Curricular
+
+Electivo
+Electivo
+
+Teórico
+Teórico
+
+
+Práctico
+Práctico
+
+Teórico Práctico Metodológico
+Teórico Práctico Metodológico
+Depende del curso elegido
+Depende del curso elegido
+Electivas por Componente
+Electivas por Componente Malla CurricularMalla Curricular
+Animación AV
+Animación AV
+
+Algebra Lineal
+Algebra Lineal
+
+Algebra
+Algebra Trigonometría y Trigonometría y Geometría AnalíticaGeometría Analítica
+
+
+Comercio y Negocio
+Comercio y Negocio InternacionalesInternacionales
+102023
+102023
+E
+E
+3
+3
+Servicio al Cliente
+Servicio al Cliente
+
+Teoría de las
+Teoría de las decisionesdecisiones
+
+Electivos Componente
+Electivos Componente Ciencias Básicas Ciencias Básicas
+Electivos Componente
+Electivos Componente TIC TIC 1717
+Electivos Componente
+Electivos Componente Económico Económico Administrativo Administrativo 1818
+Electivos Disciplinar Común I  II  III
+Electivos Disciplinar Común I  II  III
+Biología
+Biología
+201101
+
+
+
+Guitarra
+Guitarra
+
+Electivos de Formación
+Electivos de Formación Complementaria I  II  IIIComplementaria I  II  III
+Protocolo
+Protocolo
+
+Teatro
+Teatro
+
+
+Estática y Resistencia
+Estática y Resistencia de Materialesde Materiales
+
+Pensamiento de
+Pensamiento de Diseño DTDiseño DT
+
+Multimedia AV
+Multimedia AV
+
+Estructura Molecular
+Estructura Molecular
+
+Excel Avanzado
+Excel Avanzado
+212059
+212059
+E
+E
+3
+3
+
+
+Marketing
+Marketing
+
+Herramientas
+Herramientas Digitales para la Digitales para la Evaluación Evaluación ErgonómicaErgonómica
+
+Diseño Grafico IM
+Diseño Grafico IM
+
+
+Diseño Grafico Digital
+Diseño Grafico Digital IMIM
+
+Dinámicas 2D IM
+Dinámicas 2D IM
+
+
+Dinámicas 3D
+Dinámicas 3D
+
+Danza
+Danza
+
+
+Teórico 
+Teórico  PrácticoPráctico
+Obligatorio  Electivo
+Obligatorio  Electivo
+
+Diseño Industrial
+Diseño Industrial Malla CurricularMalla Curricular
+
+Obligatorio
+Obligatorio
+Clasificación del Curso
+Clasificación del Curso
+
+Electivo
+Electivo
+
+Teórico
+Teórico
+
+
+Práctico
+Práctico
+Tipo de Curso
+Tipo de Curso
+TT
+TPPP
+Teórico Práctico Metodológico
+Teórico Práctico Metodológico
+Depende del curso elegido
+Depende del curso elegido
+Electivos Disciplinares Específicos I  II  III  IV  V
+Electivos Disciplinares Específicos I  II  III  IV  V Malla CurricularMalla Curricular
+Turismo
+Turismo gastronómicogastronómico
+
+Tecnología de la
+Tecnología de la Industria AlimentariaIndustria Alimentaria
+
+Ergonomía Ambiental
+Ergonomía Ambiental
+
+Estructuras y
+Estructuras y estrategias de IDIestrategias de IDI
+
+Propiedad Intelectual
+Propiedad Intelectual y Transferencia de y Transferencia de TecnologíaTecnología
+
+Línea de Profundización I Diseño de
+Línea de Profundización I Diseño de Alimentos FDAlimentos FD  2424
+Línea de Profundización II Diseño para la
+Línea de Profundización II Diseño para la ManufacturaManufactura  2525
+
+Diseño Robusto
+Diseño Robusto
+
+Sistema de
+Sistema de alimentación y alimentación y agriculturaagricultura
+
+Ciencia de los
+Ciencia de los alimentosalimentos
+
+Diseño Basado en
+Diseño Basado en Elementos Finitos Elementos Finitos
+
+Gestión de producto
+Gestión de producto con PLM con PLM
+
+Estructuras y
+Estructuras y estrategias de IDIestrategias de IDI
+
+
+Propiedad Intelectual
+Propiedad Intelectual y Transferencia de y Transferencia de TecnologíaTecnología
+
+Gestión Tecnológica
+Gestión Tecnológica
+
+Gestión Tecnológica
+Gestión Tecnológica

@@ -1,0 +1,1900 @@
+--- CU_DISENO_INDUSTRIAL-ANTONIO_NARINO.txt ---
+DISEÑO INDUSTRIAL  PE  2619
+
+
+Periodo 1
+Asignatura	Código	Créditos
+CÁTEDRA ANTONIO NARIÑO	27472501	2
+EXPLORACIÓN CREATIVA	70463001	3
+FUNDAMENTOS DE LENGUAJES EN CREACIÓN	70463151	3
+LABORATORIO DE EXPLORACIÓN CREATIVA	70463002	3
+RECONOCIMIENTO DEL CUERPO	70463101	3
+TÉCNICA Y CIENCIA	70463051	3
+
+
+Periodo 2
+Asignatura	Código	Créditos
+APLICACIÓN DE LENGUAJES EN CREACIÓN	70463152	3
+DINÁMICAS DE CORPOREIDAD	70463102	3
+DIVERGENCIA CONCEPTUAL	70463003	3
+INGLÉS I	21692001	3
+LABORATORIO DE DIVERGENCIA CONCEPTUAL	70463004	3
+TECNOLOGÍA Y DINÁMICAS SOCIALES	70463052	3
+
+
+Periodo 3
+Asignatura	Código	Créditos
+INGLÉS 2	21692002	3
+INTERFACES	70463005	3
+LABORATORIO DE INTERFACES	70463006	3
+LENGUAJES PERCEPTIVOS	70463153	3
+USABILIDAD	70463053	3
+USO Y CULTURA	70463103	3
+
+
+Periodo 4
+Asignatura	Código	Créditos
+FUNCIONALIDAD	70463104	3
+INGLÉS 3	21692003	3
+LABORATORIO DE TRANSFORMACIÓN PLÁSTICA	70463008	3
+MATERIALIZACIÓN	70463054	3
+MODELO DE ACCIONES	70463154	3
+TRANSFORMACIÓN PLÁSTICA	70463007	3
+
+
+Periodo 5
+Asignatura	Código	Créditos
+ELECTIVA	70463011	3
+HIBRIDACIONES TECNOLÓGICAS	70463055	3
+ITERACIONES	70463009	3
+LABORATORIO DE ITERACIONES	70463010	3
+MODELOS DE COMUNICACIÓN	70463155	3
+UTILIDAD	70463105	3
+
+
+Periodo 6
+Asignatura	Código	Créditos
+INTERPRETACIÓN	70463106	3
+LABORATORIO DE REFLEXIÓN CONCEPTUAL	70463013	3
+LENGUAJES DE LA COMPLEJIDAD	70463156	3
+MODELOS SISTÉMICOS	70463056	3
+REFLEXIÓN CONCEPTUAL	70463012	3
+ÉTICA	70612251	2
+
+
+Periodo 7
+Asignatura	Código	Créditos
+EXPERIMENTACIÓN TRABAJO DE GRADO	70463057	3
+FORMULACIÓN TRABAJO DE GRADO	70463107	3
+PRÁCTICA PREPROFESIONAL	70463014	6
+
+
+Periodo 8
+Asignatura	Código	Créditos
+DESARROLLO TRABAJO DE GRADO	70463015	6
+REGISTRO TRABAJO DE GRADO	70463157	6
+
+
+Total de creditos	130
+
+--- CU_DISENO_INDUSTRIAL-FUNDACION_DE_EDUCACION_SUPERIOR_SAN_JOSE-ESSANJOSE-.txt ---
+Historia del Arte Expresión Gráficay Modelos CAD 2D Taller I Fundamentos Taller Manejo de Máquinas Teoría de la Comunicación 2 2 3 4 2 1 CAD 3D Geometría Descriptiva I Diseño Digital Humanidades Taller de Diseño IIBiónica Factores IndustrialesMateriales Plieges y Dobleces 3 1 2 2 4 2 1 Electiva Básica 1 Modelado de Producto Semiología Taller de Diseño III Formal Estética Sistemas y Ensambles Factores IndustrialesProducción I Métodos De Diseño Constitución Nacional y Ética 1 3 2 4 1 1 1 1 Electiva Básica 2 Metodología Proyectual Modelado Virtual Ergonomía Taller de Diseño IVFactores Humanos Procesos y Conformados Factores IndustrialesProducción II 1 1 3 2 4 2 1 Animación Virtual Teoría Objetual Optativa Proyecto de DiseñoPropedéutico Procesos Industriales Modelado y Producción Taller de Diseño V Factores Productivos 4 2 1 1 2 2 4 Electiva Específica 1 Producción Virtual Teoría de Sistemas Gestión de Productos Taller de DiseñoVI Socio Culturales Mercadeo Líneas de Producción 1 3 2 1 4 3 2 Prototipado Digital Gestión de Empresas Taller de Diseño VII Sistemas Objetuales Comercialización De Producto Portafolio Propedéutica Ecotecnologia Propedéutica 4 1 4 2 2 2 Electiva Específica Profesional Análisis de Proyecto Taller VIII Práctica Nuevas Tecnologías 1 4 4 4 Estrategias deInnovación Administraciónde Proyectos Talle IX Proyecto Control de Calidad 3 4 4 4 Asignatura N de Créditos Asignatura N de Créditos Asignatura N de Créditos Asignatura N de Créditos Asignatura N de Créditos Asignatura N de Créditos Asignatura N de Créditos Asignatura N de Créditos Asignatura N de Créditos Diseño Industrial Plan académico Duración 9 Periodos Académicos  Créditos Totales 132 Profesional En Diseño Industrial SNIES 105780
+
+--- CU_DISENO_INDUSTRIAL-FUNDACION_UNIVERSIDAD_AUTONOMA_DE_COLOMBIA.txt ---
+Estidios
+Generales
+36 créditos
+ COSTOS Y PRESUPUESTOS
+ DIBUJO FIGURATIVO
+ DISEÑO DE IMAGEN
+ ELECTIVA CIUDAD HISTORIA Y SOCIEDAD
+ ELECTIVA DE CIENCIAS APLICADAS
+ ELECTIVA DE LÓGICA Y CREATIVIDAD
+ ELECTIVA FINANCIERA
+ ELECTIVA HISTORIA DEL ARTE
+ ELECTIVA LIERATURA ARTE Y CULTURA
+ ELECTIVA PENSAMIENTO CIENCIA Y ÉTICA
+ ELECTIVA RECURSOS VIRTUALES
+ ÉTICA CIUDADANA Y CONSTITUCIÓN POLÍTICA
+ EXPRESIÓN BÁSICA
+ GESTIÓN EMPRESARIAL BÁSICA
+ SINTAXIS
+ TALLER DE IDEACION
+ TALLER DE SEMÁNTICA
+Estudios
+Básicos
+47 créditos
+ DIBUJO TÉCNICO
+ ELECTIVA DISCIPLINAR Y TECNOLÓGICA
+ EMPAQUES I
+ ERGONOMÍA I
+ FUNDAMENTOS DEL DISEÑO 1
+ FUNDAMENTOS DEL DISEÑO 2
+ GEOMETRIA DESCRIPTIVA  DI
+ MATERIALES ENERGÍA Y MECANISMOS
+ MODELADO 3D
+ PLANIMETRIA Y ENSAMBLAJE
+ PROCESOS DE TRANSFORM 1
+ PROCESOS DE TRANSFORM 2
+ SEMINARIO DE USABILIDAD
+ SOFTWARE DE DISEÑO
+ TALLER DEL COLOR
+Estudios
+Profesionales
+41 créditos
+ TALLER DEL COLOR
+ DISEÑO E INDUSTRIA
+ DISEÑO Y MORFOLOGIA
+ DISEÑO Y RECURSOS
+ DISEÑO Y SOCIEDAD
+ EMPAQUES 2
+ ERGONOMÍA II
+ EXPRESION TRIDIMENSIONAL
+ INTRODUCCIÓN AL DISEÑO INDUSTRIAL
+ PLANEACIÓN DEL DISEÑO
+ TEORÍA DEL OBJETO
+Estudios de
+Profundización
+20 créditos
+ CONFIGURACIÓN DE PRODUCTO
+ ELECTIVA MÉTODOS DEL DISEÑO
+ PROYECTO DE GRADO
+ SEMINARIO DE PROYECTO DE GRADO
+ SEMINARIO EN PROFUNDIZ PRODUCTOS DE CONSUMO
+
+--- CU_DISENO_INDUSTRIAL-FUNDACION_UNIVERSIDAD_DE_BOGOTA_JORGE_TADEO_LOZANO.txt ---
+DISEÑO INDUSTRIAL  PLAN 0522
+FUNDAMENTACIÓN BÁSICA
+Créditos	Asignatura	Requisito	Oferta por temática
+3	HISTORIA DE LAS ARTES Y EL DISEÑO	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 
+3	PENSAMIENTO ESPACIAL	PENSAMIENTO MATEMÁTICO EN ARTES Y DISEÑO 	 
+3	PROCESOS DE CREACIÓN EN LAS ARTES Y EL DISEÑO	 	 
+3	SEMIÓTICA EN LAS ARTES Y EL DISEÑO	TEORÍAS DE LAS ARTES Y EL DISEÑO	 
+3	TEORÍAS DE LAS ARTES Y EL DISEÑO	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 
+3	VISUALIZACIÓN EN LAS ARTES Y EL DISEÑO	 	 
+FUNDAMENTACIÓN ESPECÍFICA
+Créditos	Asignatura	Requisito	Oferta por temática
+3	DISEÑO E INNOVACIÓN I	PROYECTO DE DISEÑO INDUSTRIAL  VI	 
+3	DISEÑO E INNOVACIÓN II	PROYECTO DE DISEÑO INDUSTRIAL  VI	 
+3	EMPRENDIMIENTO EN INDUSTRIAS CULTURALES Y CREATIVAS	PROYECTO DE DISEÑO INDUSTRIAL  VI	 
+2	FACTORES HUMANOS I	PROYECTO DE DISEÑO INDUSTRIAL  III	 
+2	FACTORES HUMANOS II	FACTORES HUMANOS I	 
+2	FACTORES HUMANOS III	FACTORES HUMANOS II	 
+2	PROCESOS DEL DISEÑO INDUSTRIAL I	PENSAMIENTO ESPACIAL	 
+2	PROCESOS DEL DISEÑO INDUSTRIAL II	PROCESOS DEL DISEÑO INDUSTRIAL I	 
+2	PROCESOS DEL DISEÑO INDUSTRIAL III	PROCESOS DEL DISEÑO INDUSTRIAL II	 
+6	PROYECTO DE DISEÑO INDUSTRIAL I	 	 
+6	PROYECTO DE DISEÑO INDUSTRIAL  II	PROYECTO DE DISEÑO INDUSTRIAL I	 
+6	PROYECTO DE DISEÑO INDUSTRIAL  III	PROYECTO DE DISEÑO INDUSTRIAL  II 	 
+8	PROYECTO DE DISEÑO INDUSTRIAL  IV	PROYECTO DE DISEÑO INDUSTRIAL  III	
+8	PROYECTO DE DISEÑO INDUSTRIAL  V	PROYECTO DE DISEÑO INDUSTRIAL  IV	
+8	PROYECTO DE DISEÑO INDUSTRIAL  VI	PROYECTO DE DISEÑO INDUSTRIAL  V	
+8	PROYECTO DE DISEÑO INDUSTRIAL  VII	PROYECTO DE DISEÑO INDUSTRIAL  VI	
+2	REPRESENTACIÓN DEL DISEÑO INDUSTRIAL I	 	
+2	REPRESENTACIÓN DEL DISEÑO INDUSTRIAL II	REPRESENTACIÓN DEL DISEÑO INDUSTRIAL I	 
+2	REPRESENTACIÓN DEL DISEÑO INDUSTRIAL III	REPRESENTACIÓN DEL DISEÑO INDUSTRIAL II	 
+3	TEORÍAS DEL DISEÑO INDUSTRIAL I	FACTORES HUMANOS III	 
+3	TEORÍAS DEL DISEÑO INDUSTRIAL II	TEORÍAS DEL DISEÑO INDUSTRIAL I	 
+3	TEORÍAS DEL DISEÑO INDUSTRIAL III	TEORÍAS DEL DISEÑO INDUSTRIAL I	 
+8	INVESTIGACIÓN PROYECTO DE GRADO	PROYECTO DE DISEÑO INDUSTRIAL  VII	
+8	OPCIÓN DE GRADO CURSO PROYECTO DE GRADO	INVESTIGACIÓN PROYECTO DE GRADO	
+FUNDAMENTACIÓN HUMANÍSTICA
+Créditos	Asignatura	Requisito	Oferta por temática
+2	ÉTICA CIUDADANÍA Y PAZ	 	 
+2	HUMANIDADES I	 	
+2	HUMANIDADES II	HUMANIDADES I	
+2	HUMANIDADES III	HUMANIDADES II	
+IDIOMA EXTRANJERO
+Créditos	Asignatura	Requisito	Oferta por temática
+2	INGLÉS A1	 	 
+2	INGLÉS A2	INGLÉS A1	 
+2	INGLÉS B1	INGLÉS A2	 
+EXAMEN DE SEGUIMIENTO
+Créditos	Asignatura	Requisito	Oferta por temática
+0	EXAMEN DE SEGUIMIENTO	73 CRÉDITOS APROBADOS	 
+CORREQ INVESTIGACIÓN PROYECTO DE GRADO	 
+ELECTIVAS
+Créditos	Asignatura	Requisito	Oferta por temática
+9	ELECTIVAS ARTES Y DISEÑO	 	
+3	PENSAMIENTO MATEMÁTICO EN ARTES Y DISEÑO	 
+
+--- CU_DISENO_INDUSTRIAL-POLITECNICO_GRANCOLOMBIANO.txt ---
+8 E 3
+0 0 0
+I Bloque Institucional 13  13 0
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Materiales y
+Procesos Cerámicos
+y Textiles
+Organización y
+Métodos
+Proceso Administrativo Prospectiva
+Comunicación y
+Sociedad
+Dibujo de Figura
+Humana
+Expresión Física Mecánica
+FACULTAD DE INGENIERÍA DISEÑO E INNOVACIÓN
+Materiales y
+Procesos Metales
+Administración de
+Proyectos de
+Diseño
+Electiva I
+Arte y Estética
+Materiales y Procesos
+Maderas
+Modelos y Prototipos Taller Creativo Taller de Biónica
+Cultura Ambiental
+Taller de Fotografía
+Electiva II
+Dibujo Técnico
+Ergonomía y
+Antropometría
+Historia del Diseño
+Industrial
+DISEÑO INDUSTRIAL
+Modalidad Presencial  SNIES 101525  Bogotá
+Electiva III
+Opción de Grado Electiva V
+Marketing en Diseño
+Materiales y Procesos
+Plásticos y Traslúcidos
+Modelado y
+Animación en 3D
+Electiva IV
+Taller de Forma y
+Función
+Semiótica
+Audiovisual
+TOTAL CRÉDITOS 144
+TOTAL ASIGNATURAS 41
+CreateCamps I Dibujo y Perspectiva Matemáticas Taller de Diseño Taller de Redacción
+CreateCamps II Computación Gráfica Geometría Descriptiva
+Procesos de
+Comunicación
+Taller de Diseño II
+CreateCamps II Computación Gráfica Geometría Descriptiva
+Procesos de
+Comunicación
+Taller de Diseño II
+CreateCamps I Dibujo y Perspectiva Matemáticas Taller de Diseño Taller de Redacción
+Reconocimiento
+de Créditos
+Emprendimiento 3 Créditos
+Informática 4 Créditos
+Investigación o Bienestar 6 Créditos
+Requisitos de Grado
+Requisito Institucional Inglés
+
+--- CU_DISENO_INDUSTRIAL-PONTIFICIA UNIVERSIDAD JAVERIANA.txt ---
+13
+033533
+Taller 1
+Concepto y
+forma
+5
+033536
+Aspectos humanos 1
+Objeto y ser humano 3
+033534
+Comunicación 1
+Bocetación 3
+033539Comunicación 2
+Introducción al uso
+de las herramientas
+gráficas digitales
+3
+033542
+Pensamiento de
+diseño 2
+Pensamiento de
+diseño
+2
+035237
+Pensamiento de
+diseño 3 Historia
+del diseño
+2
+035242
+Pensamiento de
+diseño 4 Procesos
+de ideación
+2
+035251
+Gestión y
+emprendimiento
+1 Espíritu
+emprendedor
+2
+035254
+Gestión y
+emprendimiento 2
+Generación de ideas de
+negocio
+2
+035256
+Gestión y
+emprendimiento 3
+Oportunidad de
+negocio
+2
+035258
+Gestión y
+emprendimiento 4
+Plan de negocio
+2
+033537
+Pensamiento de
+diseño 1
+Metodologías de
+diseño
+2
+035233
+Comunicación 3
+Profundización en
+herramientas
+digitales
+3
+035239
+Comunicación 4
+Introducción a la
+visualización 3D de
+producto
+3
+035243
+Comunicación 5
+Producción
+audiovisual
+2
+035247
+Comunicación 6
+Presentaciones de
+impacto
+2
+035246
+Pensamiento de diseño
+5
+Crítica de diseño
+2
+035450
+Pensamiento de
+diseño 6
+Responsabilidad social
+del diseño
+2
+035253
+Pensamiento de
+diseño 7
+Formulación de
+trabajo de grado
+2
+035252
+Comunicación 7
+Identidad e imagen
+corporativa
+2
+035255
+Comunicación 8
+Semiótica de
+producto
+2
+033541
+Aspectos humanos
+2 Herramientas
+cualitativas
+3
+035234
+Aspectos humanos
+3 Ergonomía física 3
+035240
+Aspectos humanos
+4 Diseño y cognición 3
+035244
+Aspectos humanos 5
+Diseño centrado en el
+usuario
+2
+035248
+Aspectos humanos
+6 Psicología del
+consumidor
+2
+033535
+Producción 1
+Validación de
+ideas de diseño
+3
+033540
+Producción 2
+Lógica productiva 3 035236
+Producción 3
+Factibilidad de
+producto
+3
+035241
+Producción 4
+Recursos
+productivos
+3
+SEMESTRE 2 SEMESTRE 3 SEMESTRE 4 SEMESTRE 5 SEMESTRE 6 SEMESTRE 7 SEMESTRE 8 SEMESTRE 9
+033538
+Taller 2
+Uso y forma 5
+035232
+Taller 3
+Desarrollo de
+produtos
+5
+035238
+Taller 4
+Lenguaje formal
+del producto
+5
+035257
+Trabajo de grado
+de Diseño
+Industrial
+6
+
+Proyecto énfasis 1 5
+
+Proyecto énfasis 2 5
+
+Proyecto énfasis 3 5
+
+Proyecto énfasis 4 5
+
+Asignatura de
+énfasis 1 2
+
+Asignatura de
+énfasis 2 2
+035245
+Producción 5
+Introducción a la
+programación
+2
+016162
+Producción 7
+Producción
+CAMCAE
+2
+016102
+Producción 8
+CAD avanzado 2
+015875
+Producción 9
+Responsabilidad
+ambiental del
+diseño
+2
+035249
+Producción 6
+Variabilidad de las
+propuestas de
+diseño
+2
+
+Asignatura de
+énfasis 3 2
+
+Asignatura de
+énfasis 4 2
+
+Asignatura de
+énfasis 5 2
+
+Asignatura de
+énfasis 7 2
+
+Asignatura de
+énfasis 6 2
+CICLO 1 CICLO 2 CICLO 3
+LÍNEA
+PROYECTACIÓN
+LÍNEA ASPECTOS
+HUMANOS
+LÍNEA
+COMUNICACIÓN
+LÍNEA PENSAMIENTO
+DE DISEÑO
+LÍNEA GESTIÓN Y
+EMPRENDIMIENTO
+ELECTIVAS
+TOTAL CRÉDITOS
+SEMESTRE
+Ruta académica propuesta
+INSTITUCIONALES
+LÍNEA ÉNFASIS LOS
+ÉNFASIS SON
+PRODUCTO
+EMPRENDIMIENTO
+DIGITAL Y NUEVAS
+FRONTERAS DEL
+DISEÑO
+LÍNEA PRODUCCIÓN
+002430
+Arte y
+espiritualidad 2
+001505
+Constitución
+política 2
+002475
+Vida y horizontes
+creativos
+2
+002348
+Construir y
+fabricar
+2
+
+Electiva 2
+
+Electiva 2
+
+Electiva 2
+
+Electiva 2
+
+Electiva 2
+
+Electiva 2
+
+Electiva 2
+002358
+Espacio y objeto 2
+20 20 20 20 19 19 19 19 10
+
+--- CU_DISENO_INDUSTRIAL-UNIVERSIDAD_DE_LA_SALLE.txt ---
+Semestre 1 Créditos
+
+Historia del arte la arquitectura
+y el diseño
+Percepción y representación gráfica
+Modelos y materiales
+Inglés I
+Taller I fundamentos de diseño
+Identidad Lasallista
+
+
+Semestre 2
+
+Diseño en Colombia y el mundo
+Dibujo herramientas CAD y
+diseño paramétrico
+Tecnoproducción I
+Inglés II
+Taller II composición y estructuras
+Humanidades I
+
+Semestre 3 
+Pensamiento sistemático
+Comunicación I
+Inglés III
+Taller III morfología experimental
+Humanidades II
+
+Semestre 4 
+Comunicación II
+Tecnoproducción II
+Inglés IV
+Taller IV usabilidad y ergonomía
+Cultura religiosa I
+
+Semestre 5 
+Comunicación III
+Tecnoproducción III
+Electiva I
+Taller V producción y manufactura
+Cultura religiosa II
+
+Semestre 6
+Administración y finanzas
+Electiva II
+Taller VI gestión de proyectos
+Cultura religiosa III
+
+Semestre 7
+Profundización I
+Electiva III
+Práctica profesional
+Ética general
+
+Semestre 8
+Profundización II
+Profundización III
+Electiva IV
+Modalidad de grado
+
+
+
+
+
+--- CU_DISENO_INDUSTRIAL-UNIVERSIDAD_EL_BOSQUE.txt ---
+Fundamentos
+Tecnología y
+comprobación 1
+3 3
+Fundamentos
+Tecnología y
+comprobación 2
+3 3
+Fundamentos
+Tecnología y
+comprobación
+3
+3 3 Materiales y
+Procesos 1 2 3 Materiales y
+Procesos 2 2 3 Materiales y
+Procesos 3 2 3 Materiales y
+Procesos 4 2 3 Materiales y
+Procesos 5 2 3 Materiales y
+Procesos 6 2 3
+Fundamentos
+de Geometría y
+representación
+1
+4 5
+Fundamentos
+de Geometría y
+representación
+2
+4 6
+Fundamentos
+de Geometría
+y
+representación
+3
+3 5 Medios Visuales
+1 2 3 Medios
+Visuales 2 2 3 Medios
+Visuales 3 2 3
+Lenguajes
+digitales 1 2 2 Comunicación
+de producto 1 2 4 Comunicación
+de producto 2 2 4
+Diseño Básico
+1 5 6 Diseño Básico 2 5 6 Diseño 1 5 6 Diseño 2 5 6 Diseño
+Industrial 1 6 6 Diseño
+Industrial 2 6 6 Diseño
+Industrial 3 6 6 Diseño
+Industrial 4 6 6 Proyecto
+de grado 1 6 6 Proyecto
+de grado 2 6 6
+Fundamentos
+de factores
+humanos
+2 3 Ergonomía
+Aplicada 3 4 Interacción 2 2
+Teoría 1 2 2 Investigación 
+creación 1 2 2 Investigación 
+creación 2 2 2 Design
+Research 2 2
+Seminario de
+proyecto de
+grado
+2 2
+Fundamentos
+de
+Comunicación
+Plástica
+3 4 Transformación
+social 2 2
+Industrias
+Culturales y
+Creativas 1
+2 2
+Industrias
+Culturales y
+Creativas 2
+2 2 Sistemas de
+Creación 1 2 2 Sistemas de
+Creación 2 2 2 Producto y
+sostenibilidad 2 3 Empresa 1 2 2 Empresa 2 2 2
+Diseño Industrial
+y Sociedad 1 2 3 Logistica del
+producto 2 4
+Diseño
+Industrial y
+sociedad 2
+2 3 Vida profesional 2 2
+ELECTIVAS Electiva 1 2 2 Electiva 2 2 2 Electiva 3 2 2 Electiva 4 2 2 Electiva 5 2 2 Electiva 6 2 2
+Electiva de
+grado 2 2 Electiva
+
+--- CU_DISENO_INDUSTRIAL-UNIVERSIDAD_NACIONAL_ABIERTA_Y_A_DISTANCIA_UNAD.txt ---
+PERIODO I
+Física General
+100413
+O
+TP
+3
+Electivo Disciplinar
+Común II
+E
+3
+PERIODO II
+PERIODO III
+PERIODO IV
+PERIODO V
+PERIODO VI
+PERIODO VII
+PERIODO VIII
+PERIODO IX
+CSS I
+ Ética y
+Ciudadanía
+40002
+3
+Proyecto de Diseño I
+
+212069
+TP
+2
+Electivo Componente
+Ciencias Básicas
+E
+Estadística y
+Probabilidad
+211622
+O
+T
+3
+Química General
+201102
+O
+3
+CLE II
+Inglés A2
+900002
+O
+3
+CTC I
+Herramientas
+Digitales para la
+Gestión del
+Conocimiento
+200610
+TP
+3
+CLE I
+Inglés A1
+900001
+O
+TP
+3
+Teórico 
+Práctico
+Obligatorio  Electivo
+Nombre curso
+Número créditos
+CLE III
+Inglés B1
+900003
+O
+3
+Electivo Disciplinar
+Especifico I
+E
+TTPP
+3
+Electivo de Formación
+Complementaria I
+E
+1
+CLE IV
+Ingles B1
+900004
+O
+3
+Introducción al
+Diseño
+218001
+O
+2
+TP
+CTC II
+Competencias
+Comunicativas
+40003
+O
+T
+3
+Calculo Diferencial
+100410
+O
+C Región Social
+Solidaria
+REQUISITO GRADO
+Práctica Profesional
+218029
+P
+4
+Proyecto de Grado
+218023
+TP
+3
+Electivo de Formación
+Complementaria II
+E
+1
+Electivo de Formación
+Complementaria III
+E
+1
+Electivo Disciplinar
+Especifico V
+TTPP
+3
+Electivo Disciplinar
+Especifico IV
+TTPP
+3
+Electivo Disciplinar
+Especifico III
+TTPP
+3
+Diseño Industrial
+Malla Curricular
+O
+Obligatorio
+Clasificación del Curso
+E
+Electivo
+T
+Teórico
+TP
+P
+Práctico
+Tipo de Curso
+TT
+PP
+Teórico Práctico Metodológico
+Depende del curso elegido
+O
+O
+O
+Catedra Unadista
+80017
+T
+3
+O
+E
+E
+E
+O
+TTPP
+Electivo Componente
+TIC
+E
+TTPP
+3
+CII
+Fundamentos y
+Generalidades de
+Investigación
+150001
+O
+3
+T
+TTPP
+3
+T
+3
+16 CREDITOS
+16 CREDITOS
+19 CREDITOS
+19 CREDITOS
+18 CREDITOS
+17 CREDITOS
+16 CREDITOS
+15 CREDITOS
+14 CREDITOS
+150
+CREDITOS
+CCB I
+Pensamiento
+Lógico Matemático
+200611
+TP
+3
+O
+Dibujo para Diseño
+218003
+O
+TP
+3
+Proyecto de Diseño II
+
+218004
+2
+O
+CEA I
+ Fundamentos
+de Gestión Integral
+112001
+O
+3
+Dibujo de Ingeniería
+212060
+O
+T
+3
+Modelado
+Digital 3 D
+218013
+O
+TP
+3
+Proyecto de Diseño III
+
+218005
+3
+O
+Proyecto de Diseño IV
+
+218010
+3
+O
+Proyecto de Diseño V
+Gest  e Inn 
+218015
+3
+O
+Proyecto de Diseño VI
+
+218017
+3
+O
+Proyecto de Diseño
+VII FD
+218020
+3
+O
+Forma y Modelos
+218007
+O
+TP
+3
+Tecnología y Cultura
+218002
+O
+2
+T
+Historia del Diseño I
+218009
+O
+2
+T
+Electivo Componente
+Económico
+Administrativo I
+E
+TTPP
+3
+Electivo
+Disciplinar Común I
+E
+3
+TTPP
+Diseño de Empaques
+y Embalajes
+218019
+O
+3
+TP
+Arquitectura de
+Producto Alimenticio
+218016
+O
+T
+3
+Etnografía para
+Diseño
+218006
+O
+T
+2
+Diseño Ergonómico
+218011
+O
+2
+Materiales para
+Diseño
+218012
+3
+O
+Procesos para Diseño
+218008
+3
+O
+Diseño sustentable
+218018
+TP
+2
+O
+Electivo Disciplinar
+Especifico II
+E
+TTPP
+3
+Contabilidad y Costos
+212018
+O
+3
+T
+Historia del Diseño II
+218014
+O
+2
+T
+SERVICIO SOCIAL
+UNADISTA
+Gestión de Proyectos
+de Diseño
+218021
+O
+2
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+TP
+T
+T
+TP
+T
+T
+TP
+TP
+TP
+TP
+O
+T
+0
+E
+CCB
+Componente de Ciencias Básicas
+CTC
+Componente TIC
+CLE
+Componente Lengua Extranjera
+CEA
+Componente Económico Administrativo
+CSS
+Componente Social y Solidario
+CI
+Componente Investigativo
+Componentes académicos
+Electivo Disciplinar
+Común III
+E
+3
+TTPP
+Requisitos
+Código curso
+Observaciones
+1 212049
+2 218004
+3 218005
+4 218006
+5 218011
+6 218010
+7 218012
+8 218015
+9 218008
+10 212060
+11 218016
+12 218017
+13 218019
+14 218020
+15 218009
+16 100410
+1
+2
+3 4 5
+6
+8 9
+12 13
+14
+16
+7
+11
+10
+15
+Diseño Industrial
+Diseño Industrial Malla CurricularMalla Curricular
+O
+O
+Obligatorio
+Obligatorio
+Clasificación del Curso
+Clasificación del Curso
+E
+E
+Electivo
+Electivo
+T
+T
+Teórico
+Teórico
+TP
+TP
+P
+P
+Práctico
+Práctico
+Tipo de Curso
+Tipo de Curso
+TT
+TTPPPP
+Teórico Práctico Metodológico
+Teórico Práctico Metodológico
+Depende del curso elegido
+Depende del curso elegido
+Electivas por Componente
+Electivas por Componente Malla CurricularMalla Curricular
+Animación AV
+Animación AV
+408030
+408030
+E
+E
+3
+3
+Algebra Lineal
+Algebra Lineal
+208046
+208046
+E
+E
+3
+3
+Algebra
+Algebra Trigonometría y Trigonometría y Geometría AnalíticaGeometría Analítica
+301301
+301301
+E
+E
+3
+3
+T
+T
+TP
+TP
+Comercio y Negocio
+Comercio y Negocio InternacionalesInternacionales
+102023
+102023
+E
+E
+3
+3
+Servicio al Cliente
+Servicio al Cliente
+100204
+100204
+E
+E
+3
+3
+T
+T
+T
+T
+Teoría de las
+Teoría de las decisionesdecisiones
+212066
+212066
+E
+E
+3
+3
+T
+T
+Electivos Componente
+Electivos Componente Ciencias Básicas Ciencias Básicas
+Electivos Componente
+Electivos Componente TIC TIC 1717
+Electivos Componente
+Electivos Componente Económico Económico Administrativo Administrativo 1818
+Electivos Disciplinar Común I  II  III
+Electivos Disciplinar Común I  II  III
+Biología
+Biología
+201101
+201101
+E
+E
+3
+3
+TP
+TP
+La oferta electiva estará sujeta a condiciones de demanda y recursos institucionales
+La oferta electiva estará sujeta a condiciones de demanda y recursos institucionales
+Guitarra
+Guitarra
+80005
+80005
+E
+E
+1
+1
+Electivos de Formación
+Electivos de Formación Complementaria I  II  IIIComplementaria I  II  III
+Protocolo
+Protocolo
+80007
+80007
+E
+E
+1
+1
+Teatro
+Teatro
+80010
+80010
+E
+E
+1
+1
+SELECCIONE UNA OPCION
+SELECCIONE UNA OPCION POR COMPONENTEPOR COMPONENTE
+SELECCIONE UNA OPCION
+SELECCIONE UNA OPCION POR COMPONENTEPOR COMPONENTE
+SELECCIONE UNA OPCION
+SELECCIONE UNA OPCION POR COMPONENTEPOR COMPONENTE
+SELECCIONE UNA OPCION PARA CADA ELECTIVO DISCIPLINAR COMUN I
+SELECCIONE UNA OPCION PARA CADA ELECTIVO DISCIPLINAR COMUN I II II IIIIII
+SELECCIONE UNA OPCION PARA
+SELECCIONE UNA OPCION PARA CADA ELECTIVO COMPLMENTARIACADA ELECTIVO COMPLMENTARIA
+T
+T
+TP
+TP
+TP
+TP
+TP
+TP
+Estática y Resistencia
+Estática y Resistencia de Materialesde Materiales
+212019
+212019
+E
+E
+3
+3
+T
+T
+Pensamiento de
+Pensamiento de Diseño DTDiseño DT
+218022
+218022
+E
+E
+3
+3
+TP
+TP
+Multimedia AV
+Multimedia AV
+408027
+408027
+E
+E
+3
+3
+TP
+TP
+Estructura Molecular
+Estructura Molecular
+401582
+401582
+E
+E
+3
+3
+TP
+TP
+Excel Avanzado
+Excel Avanzado
+212059
+212059
+E
+E
+3
+3
+TP
+TP
+Marketing
+Marketing
+218037
+218037
+E
+E
+3
+3
+Herramientas
+Herramientas Digitales para la Digitales para la Evaluación Evaluación ErgonómicaErgonómica
+218026
+218026
+TP
+TP
+E
+E
+3
+3
+T
+T
+Diseño Grafico IM
+Diseño Grafico IM
+218040
+218040
+E
+E
+3
+3
+TP
+TP
+Diseño Grafico Digital
+Diseño Grafico Digital IMIM
+218039
+218039
+E
+E
+3
+3
+TP
+TP
+Dinámicas 2D IM
+Dinámicas 2D IM
+218025
+218025
+E
+E
+3
+3
+TP
+TP
+Dinámicas 3D
+Dinámicas 3D
+218024
+218024
+E
+E
+3
+3
+TP
+TP
+Danza
+Danza
+80012
+80012
+E
+E
+1
+1
+TP
+TP
+Teórico 
+Teórico  PrácticoPráctico
+Obligatorio  Electivo
+Obligatorio  Electivo
+Nombre curso
+Nombre curso
+Número créditos
+Número créditos
+Código curso
+Código curso
+Observaciones
+Observaciones
+Requisitos
+Requisitos
+17 200610
+17 200610
+18 112001
+18 112001
+19 211622
+19 211622
+20 218003
+20 218003
+21 208046
+21 208046
+22 218013
+22 218013
+23 218011
+23 218011
+19
+19
+20
+20
+20
+20
+20
+20
+21
+21
+22
+22
+23
+23
+Diseño Industrial
+Diseño Industrial Malla CurricularMalla Curricular
+O
+O
+Obligatorio
+Obligatorio
+Clasificación del Curso
+Clasificación del Curso
+E
+E
+Electivo
+Electivo
+T
+T
+Teórico
+Teórico
+TP
+TP
+P
+P
+Práctico
+Práctico
+Tipo de Curso
+Tipo de Curso
+TT
+TTPPPP
+Teórico Práctico Metodológico
+Teórico Práctico Metodológico
+Depende del curso elegido
+Depende del curso elegido
+Electivos Disciplinares Específicos I  II  III  IV  V
+Electivos Disciplinares Específicos I  II  III  IV  V Malla CurricularMalla Curricular
+Turismo
+Turismo gastronómicogastronómico
+218036
+218036
+E
+E
+3
+3
+Tecnología de la
+Tecnología de la Industria AlimentariaIndustria Alimentaria
+218033
+218033
+E
+E
+3
+3
+T
+T
+Ergonomía Ambiental
+Ergonomía Ambiental
+218034
+218034
+E
+E
+3
+3
+Estructuras y
+Estructuras y estrategias de IDIestrategias de IDI
+218032
+218032
+E
+E
+3
+3
+Propiedad Intelectual
+Propiedad Intelectual y Transferencia de y Transferencia de TecnologíaTecnología
+218035
+218035
+E
+E
+3
+3
+T
+T
+T
+T
+T
+T
+Línea de Profundización I Diseño de
+Línea de Profundización I Diseño de Alimentos FDAlimentos FD  2424
+Línea de Profundización II Diseño para la
+Línea de Profundización II Diseño para la ManufacturaManufactura  2525
+La oferta electiva estará sujeta a condiciones de demanda y recursos institucionales
+La oferta electiva estará sujeta a condiciones de demanda y recursos institucionales
+T
+T
+Diseño Robusto
+Diseño Robusto
+218028
+218028
+E
+E
+3
+3
+T
+T
+Sistema de
+Sistema de alimentación y alimentación y agriculturaagricultura
+218027
+218027
+T
+T
+3
+3
+Ciencia de los
+Ciencia de los alimentosalimentos
+218030
+218030
+T
+T
+3
+3
+E
+E
+E
+E
+Diseño Basado en
+Diseño Basado en Elementos Finitos Elementos Finitos
+218031
+218031
+E
+E
+3
+3
+TP
+TP
+Gestión de producto
+Gestión de producto con PLM con PLM
+218038
+218038
+E
+E
+3
+3
+TP
+TP
+Estructuras y
+Estructuras y estrategias de IDIestrategias de IDI
+218032
+218032
+E
+E
+3
+3
+Propiedad Intelectual
+Propiedad Intelectual y Transferencia de y Transferencia de TecnologíaTecnología
+218035
+218035
+E
+E
+3
+3
+T
+T
+T
+T
+Gestión Tecnológica
+Gestión Tecnológica
+212030
+212030
+TP
+TP
+3
+3
+E
+E
+Gestión Tecnológica
+Gestión Tecnológica
+TP
+TP
+3
+3
+E
+E
+SELECCIONE LOS CURSOS DE UNA LINEA PARA HACER PROFUNDIZACION
+SELECCIONE LOS CURSOS DE UNA LINEA PARA HACER PROFUNDIZACION
+Teórico 
+Teórico  PrácticoPráctico
+Obligatorio  Electivo
+Obligatorio  Electivo
+Nombre curso
+Nombre curso
+Número créditos
+Número créditos
+Código curso
+Código curso
+Observaciones
+Observaciones
+
+--- CU_DISENO_INDUSTRIAL-UNIVERSIDAD_NACIONAL_DE_COLOMBIA.txt ---
+PLAN DE ESTUDIOS
+COMPONENTE DE FUNDAMENTACIÓN
+Este componente contextualiza el campo de conocimiento por el que optó el estudiante desde una
+perspectiva de ciudadanía humanística ambiental y cultural
+Identifica las relaciones generales que caracterizan los saberes de la disciplina el contexto nacional e
+internacional de su desarrollo el contexto institucional y los requisitos indispensables para su
+formación integral
+ Materías optativas
+FUNDAMENTO EN EL CONTEXTO DE LAS ARTES
+Total créditos exigidos en esta agrupación 6
+TECNOLOGÍA  MATERIALES Y PROCESOS
+Total créditos exigidos en esta agrupación 6
+CULTURA  PENSAMIENTO  HISTORIA Y TEORÍA
+3
+Herencias Una
+mirada a la
+historia de las
+Artes
+3
+Gestión cultural y
+empresarial en las
+Artes
+3
+Responsabilidad
+socio ambiental
+de las Artes
+3
+Gestión cultural y
+empresarial en las
+Artes
+3
+Fundamentos en
+tecnología
+3
+Introducción a la
+historia y teoría
+29823 1626 Diseño Industrial  Facultad de Artes  Universidad Nacional de Colombia
+artesbogotaunaleducoprogramasacademicospregradodisenoindustrialestructura 26
+Total créditos exigidos en esta agrupación 6
+PRÁCTICA DEL DISEÑO  METODOLOGÍA  INVESTIGACIÓN
+Total créditos exigidos en esta agrupación 2
+AGRUPACIÓN TECNOLOGÍA  ORGANIZACIÓN PRODUCTIVA
+Total créditos exigidos en esta agrupación 3
+En Diseño Industrial los créditos exigidos en el componente de fundamentación son diecisiete 17
+correspondientes al 10 del plan curricular de los cuales el estudiante deberá aprobar 11 créditos de
+asignaturas obligatorias y 6 créditos de asignaturas optativas
+COMPONENTE DE FORMACIÓN DISCIPLINAR O PROFESIONAL
+Este componente suministra al estudiante la gramática básica de su profesión o disciplina las teorías
+métodos y prácticas fundamentales cuyo ejercicio formativo investigativo y de extensión le permitirá
+integrarse con una comunidad profesional o disciplinar determinada
+PRÁCTICA DEL DISEÑO  PROYECTO
+del diseño
+3
+Pensamiento
+sistémico
+3
+Gerencia de
+proyectos de
+diseño
+4
+Laboratorio de
+Diseño I
+4
+Laboratorio de
+Diseño II
+4
+Laboratorio de
+Diseño III
+3
+Práctica
+Proyectual I
+3
+Práctica
+Proyectual II
+3
+Práctica
+Proyectual III
+3
+Práctica
+Proyectual IV
+3 3 3 3 4
+29823 1626 Diseño Industrial  Facultad de Artes  Universidad Nacional de Colombia
+artesbogotaunaleducoprogramasacademicospregradodisenoindustrialestructura 36
+Total créditos exigidos en esta agrupación 42 Distribuidos así
+Créditos obligatorios 12
+Créditos optativos 30
+PRÁCTICA DEL DISEÑO  METODOLOGÍA  INVESTIGACIÓN
+Total créditos exigidos en esta agrupación 4
+TECNOLOGÍA  MATERIALES Y PROCESOS
+Práctica
+Proyectual V
+Práctica
+Proyectual VI
+Práctica
+Proyectual VII
+Práctica
+Proyectual VIII
+Observatorio de
+Diseño I
+4
+Observatorio de
+Diseño II
+4
+Observatorio de
+Diseño III
+4
+Observatorio de
+Diseño IV
+4
+Observatorio de
+Diseño V
+4
+Observatorio de
+Diseño VI
+4
+Observatorio de
+Diseño VII
+4
+Observatorio de
+Diseño VIII
+2
+Análisis de
+métodos
+proyectuales
+2
+Seminario de
+Trabajo de Grado
+3
+Tecnología de
+materiales
+3
+Tecnología de
+procesos de
+manufactura
+2 2
+29823 1626 Diseño Industrial  Facultad de Artes  Universidad Nacional de Colombia
+artesbogotaunaleducoprogramasacademicospregradodisenoindustrialestructura 46
+Total créditos exigidos en esta agrupación 8 Distribuidos así
+Créditos obligatorios 6
+Créditos optativos 2
+TECNOLOGÍA ORGANIZACIÓN PRODUCTIVA
+Total créditos exigidos en esta agrupación 8 Distribuidos así
+Créditos obligatorios 6
+Créditos optativos 2
+CULTURA  COMUNICACIÓN
+Total créditos exigidos en esta agrupación 20 Distribuidos así
+Créditos obligatorios 18
+Créditos optativos 2
+Materiales
+compuestos
+Procesos
+avanzados de
+manufactura
+3
+Industrialización
+de Producto
+3
+Diseño y
+mercados
+2
+Economía e
+industria
+2
+Tecnología
+avanzada
+2
+Dirección
+organizacional
+3
+Comunicación I
+3
+Comunicación II
+3
+Comunicación III
+3
+Comunicación IV
+3
+Comunicación V
+3
+Comunicación VI
+2
+Multimedia
+medios
+interactivos
+2
+Modelación
+avanzada
+2
+Diseño de
+exposiciones
+3 3
+29823 1626 Diseño Industrial  Facultad de Artes  Universidad Nacional de Colombia
+artesbogotaunaleducoprogramasacademicospregradodisenoindustrialestructura 56
+CULTURA  PENSAMIENTO  HISTORIA Y TEORÍA
+Total créditos exigidos en esta agrupación 14 Distribuidos así
+Créditos obligatorios 12
+Créditos optativos 2
+CULTURA  SER HUMANO
+Total créditos exigidos en esta agrupación 14 Distribuidos así
+Créditos obligatorios 12
+Créditos optativos 2
+CULTURA  AMBIENTE
+Total créditos exigidos en esta agrupación 5 Distribuidos así
+Créditos obligatorios 3
+Créditos optativos 2
+Historia y teoría I Historia y teoría II
+3
+Historia y teoría
+III
+3
+Historia y teoría
+IV
+3
+Cultura material y
+del arte en
+América Latina
+3
+Taller de crítica
+experimental
+3
+Teoría
+morfológica
+3
+Ergonomía física
+3
+Ergonomía
+cognitiva
+3
+Ergonomía
+organizacional
+2
+Macroergonomía
+2
+Diseño cultura y
+sociedad
+2
+Laboratorio de
+ergonomía
+3
+Diseño para la
+sostenibilidad
+3
+Perfil ambiental
+3
+Producción mas
+limpia
+2
+Sistemas de
+gestión
+ambiental
+6
+29823 1626 Diseño Industrial  Facultad de Artes  Universidad Nacional de Colombia
+artesbogotaunaleducoprogramasacademicospregradodisenoindustrialestructura 66
+TRABAJO DE GRADO
+Trabajo de Grado es una asignatura de carácter especial en la cual el estudiante fortalece y desarrolla
+su capacidad investigativa su creatividad innovación y disciplina en la realización de trabajos
+científicos científicotécnicos y de creación aplicando los conocimientos y métodos adquiridos en el
+proceso de formación como Diseñador Industrial
+El trabajo de grado tiene varias modalidades
+Trabajo o proyecto de investigacióncreación
+Práctica de extensión o pasantía
+Asignaturas de posgrado cursar asignaturas o el primer semestre de un programa de posgrado
+En Diseño Industrial los créditos exigidos para este componente de formación disciplinar o profesional
+son ciento dieciocho 118 correspondientes al 70 del plan curricular de los cuales el estudiante
+deberá aprobar 76 créditos de asignaturas obligatorias y 42 créditos deasignaturas optativas
+COMPONENTE DE LIBRE ELECCIÓN
+Este componente pretende dar al estudiante un nivel de autonomía suficiente y la responsabilidad
+para elegir los temas y trayectorias académicas que más se acerquen a sus intereses de formación e
+investigación
+Es objetivo de este componente acercar a los estudiantes a las tareas de investigación extensión
+emprendimiento y toma de conciencia de las implicaciones sociales de la generación de conocimiento
+Las asignaturas que lo integran podrán ser contextos cátedras de facultad o sede líneas de
+profundización o asignaturas de éstas asignaturas de posgrado o de otros programas curriculares de
+pregrado de la Universidad u otras con las cuales existan los convenios pertinentes
+En Diseño Industrial los créditos exigidos en este componente son treinta y cuatro 34
+correspondientes al 20 del total de créditos del plan de estudios
+

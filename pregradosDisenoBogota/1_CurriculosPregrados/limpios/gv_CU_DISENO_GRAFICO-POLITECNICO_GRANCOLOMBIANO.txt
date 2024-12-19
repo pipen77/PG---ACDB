@@ -1,0 +1,53 @@
+8
+F 8 P 3
+0 36
+I Bloque Institucional 13 0
+F Bloque de Facultad
+P Bloque por Programa
+E Bloque Electivo
+Cr Créditos
+N N Asignatura
+Pr Prerrequisitos
+Proceso
+Administrativo Preprensa Fundamentos de
+Interactividad Animación 3D II
+Semiótica
+Audiovisual Taller de Fotografía
+Diseño Publicitario Modelado 3D Ilustración I
+FACULTAD DE INGENIERÍA DISEÑO E INNOVACIÓN
+Opción de Grado
+Procesos de
+Impresión
+Electiva II
+Matemáticas Diseño Editorial Identidad Visual Animación 3D I Ilustración II
+Historia del Diseño
+Gráfico
+Dibujo de Figura
+Humana Taller de Redacción
+Procesos de
+Comunicación CreateCamps I
+TOTAL CRÉDITOS 140
+TOTAL ASIGNATURAS 41
+DISEÑO GRÁFICO
+Modalidad Presencial  SNIES 54534  Bogotá
+Ilustración Digital
+Diseño de Empaques Electiva V Cultura Ambiental
+Electiva IV
+Animación 2D
+Arte y Estética CreateCamps II Taller de Diseño II Computación Gráfica Geometría
+Descriptiva
+Reconocimiento
+de Créditos
+Taller de Diseño Dibujo y Perspectiva Taller Creativo
+Proyecto Interactivo
+Diseño para la Web
+Electiva I
+Electiva III
+Comunicación y
+Sociedad
+Requisitos de Grado
+Requisito Institucional Inglés
+
+Emprendimiento 3 Créditos
+Informática 4 Créditos
+Investigación o Bienestar 6 Créditos
