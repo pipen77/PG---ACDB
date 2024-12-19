@@ -10,4 +10,5 @@ En las carpeta **/PregradosDisenoBogota** contiene 3 tipos de documentos clasifi
 - 1_CurriculosPregrados
 - 2_Perfil Egreso
 - 3_Campo Laboral
+
 También se adjuntan las tablas que contienen los registros de los programas de Diseño registrados en el SNIES.
